@@ -1,0 +1,284 @@
+- ContextualCandidates
+- ContextualCandidateInfo
+- ContextualCandidateTokens
+- ContextualCandidateTokens_content
+- ContextualCandidateTokens_segments
+- ContextualCandidateTokens_segdir
+- ContextualCandidateTokens_docsize
+- ContextualCandidateTokens_stat
+- RpcCache
+- Tokens
+- Tokens_content
+- Tokens_segments
+- Tokens_segdir
+- Tokens_docsize
+- Tokens_stat
+- room_master_table
+
+--- Schema for table: CacheInfo ---
+CREATE TABLE `CacheInfo` (`rowid` INTEGER NOT NULL, `last_updated` INTEGER NOT NULL, `num_contacts` INTEGER NOT NULL DEFAULT 0, `affinity_response_context` BLOB, PRIMARY KEY(`rowid`))
+
+--- Data for table: CacheInfo ---
+rowid	last_updated	num_contacts	affinity_response_context
+1	1741672131191	1	b'\x08\xff\xe5\x85\xca\x05\x1a\x14\x08\x06\x11/\xdd$\x06\x81\x95\t@\x19\x00\x00\x00\x00\x00\x00\xf0?\x1a\x14\x08\x10\x11\x04V\x0e-\xb2\x9d\xf1?\x19\x00\x00\x00\x00\x00\x00\xd0?\x1a\x14\x08\x07\x11\xa6\x9b\xc4 \xb0r\xc8?\x19\x00\x00\x00\x00\x00\x00\xf0?\x1a\x14\x08\x0b\x11\n\xd7\xa3p=\n\xb7?\x19\x00\x00\x00\x00\x00\x00\xf0?\x1a\x14\x08\x08\x11\x9a\x99\x99\x99\x99\x99\xa9?\x19\x00\x00\x00\x00\x00\x00\xf0?'
+--------------------------------------------------
+
+--- Schema for table: Contacts ---
+CREATE TABLE `Contacts` (`id` INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL, `affinity` REAL NOT NULL, `type` TEXT NOT NULL DEFAULT 'PERSON', `proto_bytes` BLOB)
+
+--- Data for table: Contacts ---
+id	affinity	type	proto_bytes
+1	0.645	PERSON	b'\n\xab\x02\n\x84\x02\n\xc9\x01\ns\nohttps://lh3.googleusercontent.com/cm/AGPWSu9O3dDLShl5gPvx7CA8iA6SCPx87jyjOQA8YthoejuHSS1KGtPm1ep3puic5zO8tWY19g\x10\x01\x12\x0f\n\x0bLeo Bennett \x02\x1a?\n4CP_lhcoFEh8IAhIbChlsZW8wODIxLmJlbm5ldHRAZ21haWwuY29t\x11\n\xd7\xa3p=\n\xdf? \x01\x12\x1b\n\x19leo0821.bennett@gmail.com*\x17\n\x15115732276850607914719@\x01\x12"\n\x17CP_lhcoFGN_916SUzpGq2gE\x11\xa4p=\n\xd7\xa3\xe4?'
+--------------------------------------------------
+
+--- Schema for table: ContextualCandidateContexts ---
+CREATE TABLE `ContextualCandidateContexts` (`candidate_id` TEXT NOT NULL, `context_id` TEXT NOT NULL, PRIMARY KEY(`candidate_id`, `context_id`))
+
+--- Data for table: ContextualCandidateContexts ---
+(No data in this table)
+--------------------------------------------------
+
+--- Schema for table: ContextualCandidates ---
+CREATE TABLE `ContextualCandidates` (`id` TEXT NOT NULL, `proto_bytes` BLOB NOT NULL, PRIMARY KEY(`id`))
+
+--- Data for table: ContextualCandidates ---
+(No data in this table)
+--------------------------------------------------
+
+--- Schema for table: ContextualCandidateInfo ---
+CREATE TABLE `ContextualCandidateInfo` (`candidate_id` TEXT NOT NULL, `last_updated` INTEGER NOT NULL, `last_accessed` INTEGER NOT NULL, PRIMARY KEY(`candidate_id`))
+
+--- Data for table: ContextualCandidateInfo ---
+(No data in this table)
+--------------------------------------------------
+
+--- Schema for table: ContextualCandidateTokens ---
+CREATE VIRTUAL TABLE `ContextualCandidateTokens` USING FTS4(`candidate_id` TEXT NOT NULL, `value` TEXT NOT NULL, `source_type` TEXT NOT NULL, tokenize=unicode61 `tokenchars=@.-`, notindexed=`candidate_id`, notindexed=`source_type`, prefix=`1`)
+
+--- Data for table: ContextualCandidateTokens ---
+(No data in this table)
+--------------------------------------------------
+
+--
+--- Data for table: ContextualCandidateTokens_segdir ---
+(No data in this table)
+--------------------------------------------------
+
+--- Schema for table: ContextualCandidateTokens_docsize ---
+CREATE TABLE 'ContextualCandidateTokens_docsize'(docid INTEGER PRIMARY KEY, size BLOB)
+
+--- Data for table: ContextualCandidateTokens_docsize ---
+(No data in this table)
+--------------------------------------------------
+
+--- Schema for table: ContextualCandidateTokens_stat ---
+CREATE TABLE 'ContextualCandidateTokens_stat'(id INTEGER PRIMARY KEY, value BLOB)
+
+--- Data for table: ContextualCandidateTokens_stat ---
+(No data in this table)
+--------------------------------------------------
+
+--- Schema for table: RpcCache ---
+CREATE TABLE `RpcCache` (`type` TEXT NOT NULL, `key` TEXT NOT NULL, `timestamp` INTEGER NOT NULL, `proto_bytes` BLOB, PRIMARY KEY(`type`, `key`))
+
+--- Data for table: RpcCache ---
+(No data in this table)
+--------------------------------------------------
+
+--- Schema for table: Tokens ---
+CREATE VIRTUAL TABLE `Tokens` USING FTS4(`contact_id` INTEGER NOT NULL, `value` TEXT, `affinity` REAL NOT NULL, `field_type` TEXT, tokenize=unicode61 `tokenchars=@.-`, notindexed=`contact_id`, notindexed=`affinity`, notindexed=`field_type`, prefix=`1`)
+
+--- Data for table: Tokens ---
+contact_id	value	affinity	field_type
+1	Leo Bennett	0.485	EMAIL
+1	Leo	0.485	EMAIL
+1	Bennett	0.485	EMAIL
+1	leo0821.bennett@gmail.com	0.485	EMAIL
+1	leo0821.bennett	0.485	EMAIL
+1	bennett	0.485	EMAIL
+1	leo0821bennett	0.485	EMAIL
+--------------------------------------------------
+
+--- Schema for table: Tokens_content ---
+CREATE TABLE 'Tokens_content'(docid INTEGER PRIMARY KEY, 'c0contact_id', 'c1value', 'c2affinity', 'c3field_type')
+
+--- Data for table: Tokens_content ---
+docid	c0contact_id	c1value	c2affinity	c3field_type
+1	1	Leo Bennett	0.485	EMAIL
+2	1	Leo	0.485	EMAIL
+3	1	Bennett	0.485	EMAIL
+4	1	leo0821.bennett@gmail.com	0.485	EMAIL
+5	1	leo0821.bennett	0.485	EMAIL
+6	1	bennett	0.485	EMAIL
+7	1	leo0821bennett	0.485	EMAIL
+--------------------------------------------------
+
+--- Schema for table: Tokens_segments ---
+CREATE TABLE 'Tokens_segments'(blockid INTEGER PRIMARY KEY, block BLOB)
+
+--- Data for table: Tokens_segments ---
+(No data in this table)
+--------------------------------------------------
+
+--- Schema for table: Tokens_segdir ---
+CREATE TABLE 'Tokens_segdir'(level INTEGER,idx INTEGER,start_block INTEGER,leaves_end_block INTEGER,end_block INTEGER,root BLOB,PRIMARY KEY(level, idx))
+
+--- Data for table: Tokens_segdir ---
+level	idx	start_block	leaves_end_block	end_block	root
+0	0	0	0	0 94	b'\x00\x07bennett\x0f\x01\x01\x01\x03\x00\x02\x01\x01\x02\x00\x03\x01\x01\x02\x00\x00\x03leo\n\x01\x01\x01\x02\x00\x01\x01\x01\x02\x00\x03\x0c0821.bennett\x05\x05\x01\x01\x02\x00\x0f\n@gmail.com\x05\x04\x01\x01\x02\x00\x07\x07bennett\x05\x07\x01\x01\x02\x00'
+1024	0	0	0	0 48	b'\x00\x01b\x0f\x01\x01\x01\x03\x00\x02\x01\x01\x02\x00\x03\x01\x01\x02\x00\x00\x01l\x19\x01\x01\x01\x02\x00\x01\x01\x01\x02\x00\x02\x01\x01\x02\x00\x01\x01\x01\x02\x00\x02\x01\x01\x02\x00'
+--------------------------------------------------
+
+--- Schema for table: Tokens_docsize ---
+CREATE TABLE 'Tokens_docsize'(docid INTEGER PRIMARY KEY, size BLOB)
+
+--- Data for table: Tokens_docsize ---
+docid	size
+1	b'\x00\x02\x00\x00'
+--
+- ContextualCandidates
+- ContextualCandidateInfo
+- ContextualCandidateTokens
+- ContextualCandidateTokens_content
+- ContextualCandidateTokens_segments
+- ContextualCandidateTokens_segdir
+- ContextualCandidateTokens_docsize
+- ContextualCandidateTokens_stat
+- RpcCache
+- Tokens
+- Tokens_content
+- Tokens_segments
+- Tokens_segdir
+- Tokens_docsize
+- Tokens_stat
+- room_master_table
+
+--- Schema for table: CacheInfo ---
+CREATE TABLE `CacheInfo` (`rowid` INTEGER NOT NULL, `last_updated` INTEGER NOT NULL, `num_contacts` INTEGER NOT NULL DEFAULT 0, `affinity_response_context` BLOB, PRIMARY KEY(`rowid`))
+
+--- Data for table: CacheInfo ---
+rowid	last_updated	num_contacts	affinity_response_context
+1	1741670282196	1	b'\x08\xd1\xed\xd9\xd4\x06\x1a\x14\x08\x06\x11/\xdd$\x06\x81\x95\t@\x19\x00\x00\x00\x00\x00\x00\xf0?\x1a\x14\x08\x10\x11\x04V\x0e-\xb2\x9d\xf1?\x19\x00\x00\x00\x00\x00\x00\xd0?\x1a\x14\x08\x07\x11\xa6\x9b\xc4 \xb0r\xc8?\x19\x00\x00\x00\x00\x00\x00\xf0?\x1a\x14\x08\x0b\x11\n\xd7\xa3p=\n\xb7?\x19\x00\x00\x00\x00\x00\x00\xf0?\x1a\x14\x08\x08\x11\x9a\x99\x99\x99\x99\x99\xa9?\x19\x00\x00\x00\x00\x00\x00\xf0?(\x01'
+--------------------------------------------------
+
+--- Schema for table: Contacts ---
+CREATE TABLE `Contacts` (`id` INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL, `affinity` REAL NOT NULL, `type` TEXT NOT NULL DEFAULT 'PERSON', `proto_bytes` BLOB)
+
+--- Data for table: Contacts ---
+id	affinity	type	proto_bytes
+1	1999.0	PERSON	b'\n\xa3\x02\n\xf8\x01\n\xce\x01\ns\nohttps://lh3.googleusercontent.com/cm/AGPWSu9O3dDLShl5gPvx7CA8iA6SCPx87jyjOQA8YthoejuHSS1KGtPm1ep3puic5zO8tWY19g\x10\x01\x12\x14\n\x0bLeo Bennett\x12\x03Leo \x02\x1a?\n4CNHt2dQGEh8IAhIbChlsZW8wODIxLmJlbm5ldHRAZ21haWwuY29t\x11\x00\x00\x00\x00\x008\x9f@ \x01\x12\x1f\n\x19leo0821.bennett@gmail.com\x1a\x02\x08\x01@\x01J\x02\x18\x01\x12"\n\x17CNHt2dQGGN_916SUzpGq2gE\x11\x00\x00\x00\x00\x00<\x9f@*\x02(\x01'
+--------------------------------------------------
+
+--- Schema for table: ContextualCandidateContexts ---
+CREATE TABLE `ContextualCandidateContexts` (`candidate_id` TEXT NOT NULL, `context_id` TEXT NOT NULL, PRIMARY KEY(`candidate_id`, `context_id`))
+
+--- Data for table: ContextualCandidateContexts ---
+(No data in this table)
+--------------------------------------------------
+
+--- Schema for table: ContextualCandidates ---
+CREATE TABLE `ContextualCandidates` (`id` TEXT NOT NULL, `proto_bytes` BLOB NOT NULL, PRIMARY KEY(`id`))
+
+--- Data for table: ContextualCandidates ---
+(No data in this table)
+--------------------------------------------------
+
+--- Schema for table: ContextualCandidateInfo ---
+CREATE TABLE `ContextualCandidateInfo` (`candidate_id` TEXT NOT NULL, `last_updated` INTEGER NOT NULL, `last_accessed` INTEGER NOT NULL, PRIMARY KEY(`candidate_id`))
+
+--- Data for table: ContextualCandidateInfo ---
+(No data in this table)
+--------------------------------------------------
+
+--- Schema for table: ContextualCandidateTokens ---
+CREATE VIRTUAL TABLE `ContextualCandidateTokens` USING FTS4(`candidate_id` TEXT NOT NULL, `value` TEXT NOT NULL, `source_type` TEXT NOT NULL, tokenize=unicode61 `tokenchars=@.-`, notindexed=`candidate_id`, notindexed=`source_type`, prefix=`1`)
+
+--- Data for table: ContextualCandidateTokens ---
+(No data in this table)
+--------------------------------------------------
+
+--
+(No data in this table)
+--------------------------------------------------
+
+--- Schema for table: ContextualCandidateTokens_segdir ---
+CREATE TABLE 'ContextualCandidateTokens_segdir'(level INTEGER,idx INTEGER,start_block INTEGER,leaves_end_block INTEGER,end_block INTEGER,root BLOB,PRIMARY KEY(level, idx))
+
+--- Data for table: ContextualCandidateTokens_segdir ---
+(No data in this table)
+--------------------------------------------------
+
+--- Schema for table: ContextualCandidateTokens_docsize ---
+CREATE TABLE 'ContextualCandidateTokens_docsize'(docid INTEGER PRIMARY KEY, size BLOB)
+
+--- Data for table: ContextualCandidateTokens_docsize ---
+(No data in this table)
+--------------------------------------------------
+
+--- Schema for table: ContextualCandidateTokens_stat ---
+CREATE TABLE 'ContextualCandidateTokens_stat'(id INTEGER PRIMARY KEY, value BLOB)
+
+--- Data for table: ContextualCandidateTokens_stat ---
+(No data in this table)
+--------------------------------------------------
+
+--- Schema for table: RpcCache ---
+CREATE TABLE `RpcCache` (`type` TEXT NOT NULL, `key` TEXT NOT NULL, `timestamp` INTEGER NOT NULL, `proto_bytes` BLOB, PRIMARY KEY(`type`, `key`))
+
+--- Data for table: RpcCache ---
+type	key	timestamp	proto_bytes
+EMAIL	no-reply@accounts.google.com	1741670464035	b'\n.\n(\n\x02 \x01\x12"\n\x1cno-reply@accounts.google.com\x1a\x02\x08\x01\x1a\x02\x10\x01'
+EMAIL	leo0821.bennett@gmail.com	1741671327282	b'\n\xb6\x01\n\xb3\x01\n\x8d\x01\ns\nohttps://lh3.googleusercontent.com/cm/AGPWSu9O3dDLShl5gPvx7CA8iA6SCPx87jyjOQA8YthoejuHSS1KGtPm1ep3puic5zO8tWY19g\x10\x01\x12\x14\n\x0bLeo Bennett\x12\x03Leo \x02 \x01\x12\x1f\n\x19leo0821.bennett@gmail.com\x1a\x02\x08\x01@\x01'
+EMAIL	liam0403.ac@gmail.com	1741671332139	b'\n\x99\x01\n\x96\x01\nu\na\n]https://lh3.googleusercontent.com/a/ACg8ocJYBRotngzawEPHADfDInHikKGgo7mhDVNRqw1KIyKYWQ27kw=mo\x10\x01\x12\x0e\n\x04Liam\x12\x04Liam \x01 \x01\x12\x1b\n\x15liam0403.ac@gmail.com\x1a\x02\x08\x010\x01'
+--------------------------------------------------
+
+--- Schema for table: Tokens ---
+CREATE VIRTUAL TABLE `Tokens` USING FTS4(`contact_id` INTEGER NOT NULL, `value` TEXT, `affinity` REAL NOT NULL, `field_type` TEXT, tokenize=unicode61 `tokenchars=@.-`, notindexed=`contact_id`, notindexed=`affinity`, notindexed=`field_type`, prefix=`1`)
+
+--- Data for table: Tokens ---
+contact_id	value	affinity	field_type
+1	Leo Bennett	1998.0	EMAIL
+1	Leo	1998.0	EMAIL
+1	Bennett	1998.0	EMAIL
+1	leo0821.bennett@gmail.com	1998.0	EMAIL
+1	leo0821.bennett	1998.0	EMAIL
+1	bennett	1998.0	EMAIL
+1	leo0821bennett	1998.0	EMAIL
+--------------------------------------------------
+
+--- Schema for table: Tokens_content ---
+CREATE TABLE 'Tokens_content'(docid INTEGER PRIMARY KEY, 'c0contact_id', 'c1value', 'c2affinity', 'c3field_type')
+
+--- Data for table: Tokens_content ---
+docid	c0contact_id	c1value	c2affinity	c3field_type
+1	1	Leo Bennett	1998.0	EMAIL
+2	1	Leo	1998.0	EMAIL
+3	1	Bennett	1998.0	EMAIL
+4	1	leo0821.bennett@gmail.com	1998.0	EMAIL
+5	1	leo0821.bennett	1998.0	EMAIL
+6	1	bennett	1998.0	EMAIL
+7	1	leo0821bennett	1998.0	EMAIL
+--------------------------------------------------
+
+--- Schema for table: Tokens_segments ---
+CREATE TABLE 'Tokens_segments'(blockid INTEGER PRIMARY KEY, block BLOB)
+
+--- Data for table: Tokens_segments ---
+(No data in this table)
+--------------------------------------------------
+
+--- Schema for table: Tokens_segdir ---
+CREATE TABLE 'Tokens_segdir'(level INTEGER,idx INTEGER,start_block INTEGER,leaves_end_block INTEGER,end_block INTEGER,root BLOB,PRIMARY KEY(level, idx))
+
+--- Data for table: Tokens_segdir ---
+level	idx	start_block	leaves_end_block	end_block	root
+0	0	0	0	0 94	b'\x00\x07bennett\x0f\x01\x01\x01\x03\x00\x02\x01\x01\x02\x00\x03\x01\x01\x02\x00\x00\x03leo\n\x01\x01\x01\x02\x00\x01\x01\x01\x02\x00\x03\x0c0821.bennett\x05\x05\x01\x01\x02\x00\x0f\n@gmail.com\x05\x04\x01\x01\x02\x00\x07\x07bennett\x05\x07\x01\x01\x02\x00'
+1024	0	0	0	0 48	b'\x00\x01b\x0f\x01\x01\x01\x03\x00\x02\x01\x01\x02\x00\x03\x01\x01\x02\x00\x00\x01l\x19\x01\x01\x01\x02\x00\x01\x01\x01\x02\x00\x02\x01\x01\x02\x00\x01\x01\x01\x02\x00\x02\x01\x01\x02\x00'
+--------------------------------------------------
+
+--- Schema for table: Tokens_docsize ---
+CREATE TABLE 'Tokens_docsize'(docid INTEGER PRIMARY KEY, size BLOB)
+
+--- Data for table: Tokens_docsize ---
+docid	size
+1	b'\x00\x02\x00\x00'

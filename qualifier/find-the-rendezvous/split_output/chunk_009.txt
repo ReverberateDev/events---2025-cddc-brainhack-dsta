@@ -1,0 +1,433 @@
+qsb:has_external_dasher_account	false
+qsb:gws_cgi_param_query_equal_whitelist	nfpr,nirf,brd,tbs,tbas,filter,zx,stick,rlst,hotel_dates,luac,lr
+gearhead:car_pwm_frame_rate_low_idle	30
+fmradio:music_search_enabled	1
+google_express_storeoms:timer_metric	true
+auth_managed_dpmrh_force_download_role_holder	false
+user_location_reporting:device_tag_api_packages	com.google.android.googlequicksearchbox,com.google.android.apps.emergencyassist,com.google.android.apps.youtube.music,com.google.android.gms,com.google.android.gms.octarine,com.google.android.apps.spot,com.google.android.apps.location.supersilver
+gearhead:vn_waze_min_version_2	1021380
+gearhead:forward_search_key	true
+checkin_logging_policy:snet_gcore	TAG_AND_VALUE
+books:pdr_notify	true
+gms:googlehelp:app_package_names_not_in_play_store	com.android.vending,com.android.settings,com.google.android.fmradio,com.android.calculator2
+gcm_gsf_disable	1
+update_ui_notify_insufficient_space_strategy	1,43200000
+youtube:main:*:*:is_bgol_enabled	false
+qsb:corpora_config_uri	https://www.gstatic.com/android/voicesearch/corpora_2014_02_07_v2p3OrLower
+gass:ad_attest_signal_uri	https://www.googleapis.com/androidcheck/v1/attestations/adAttest?key=AIzaSyDaepk5bynjTA7ZhzF_0fzIHIXAkZlz3dA
+videos:knowledge_enabled_phones	false
+classroom.min_version_code	191819999
+gms:playlog:uploader:oauth2_developer_code	https://www.googleapis.com/auth/cclog
+gmmwearable:enable_crash_metric	true
+fireperf:3a145ab94751d06c868a0a3f4bbbe4b5dac1f4a5_limits	sampling:0
+--
+google_services:geowiki	Google Map maker||Allows applications to sign in to the Google Map maker service using the account(s) stored on this phone.
+finsky.pss.wl_v2_3p	com.sec.android.easyMover:34DF0E7A9F1CF1892E45C056B4973CD81CCF148A4050D11AEA4AC5A65F900A42,C8A2E9BCCF597C2FB6DC66BEE293FC13F2FC47EC77BC6B2B0D52C11F51192AB8,0A012131B1BDF9E80EF97D37F3B48362BE363A464C8445ECF83627EBE8493A1E
+gads:gmsg:disable_back_button:enabled	true
+event:exp_det_cert_pin_failure	log
+googletts:use_lstm	false
+leanbacklauncher:primes_enabled	true
+moviemaker:new_aam_plus_in_app_notification_enabled_v2	FALSE
+tachyon_call_rating_policy_call_duration_secs	15
+ocr.perform_nonstandard_cc_recognition	false
+gms:playlog:uploader:max_log_events_size_bytes	9437184
+Tasks:enable_crash_metric	true
+event:exp_det_sms_sent_by_user	packages
+update_publish_system_update_info	1
+gms_icing_silent_feedback_3p_sample	0.0001
+google_services:panoramio	Panoramio||Allows applications to sign in to the Panoramio service using the account(s) stored on this phone.
+gms:places_default_geofencing_notification_responsiveness	150000
+youtube:is_pudl_enabled_without_resync_5_3	false
+fitness.enable_activity_from_steps_transformation	true
+cw:notification_reviver_can_show_in_app_phone_reboot_ui	true
+gearhead:forward_navigation_key	true
+googlevoice_hats_time_after_update_satisfaction_survey_days	5
+fireperf:2917ee04cff8daf089e0b655964298eee208896b_limits	sampling:0
+videos:in_app_drm_player_streaming_height_cap	719
+play.playlog_enabled_sources	BOOKS
+fitness.fitness_server_timeout_ms	12000
+update_notify_wifi_disconnected_delay	0
+gearhead:VanagonDeprecation__disable_frx_btal_setup	true
+deskclock:calm_country_codes	AU,BR,CA,DE,ES,FR,GB,JP,KR,MX,PT,US
+gearhead:tts_minimum_version	210307100
+... (and more rows, limited to 200 for brevity)
+--------------------------------------------------
+--
+--- Schema for table: saved_global ---
+CREATE TABLE saved_global (name TEXT PRIMARY KEY, value TEXT)
+
+--- Data for table: saved_global ---
+name	value
+content_capture_service_explicitly_enabled	NULL
+network_scoring_ui_enabled	NULL
+sms_short_codes_metadata_url	NULL
+cert_pin_content_url	NULL
+carrier_app_whitelist	NULL
+sms_short_codes_content_url	NULL
+send_action_app_error	NULL
+carrier_app_names	com.google.android.apps.tycho:Google Fi
+verifier_timeout	17000
+cert_pin_metadata_url	https://www.gstatic.com/android/config_update/08202014-metadata.txt
+autofill_compat_mode_allowed_packages	com.android.chrome[url_bar]:com.brave.browser[url_bar]:com.brave.browser_beta[url_bar]:com.brave.browser_nightly[url_bar]:com.chrome.beta[url_bar]:com.chrome.dev[url_bar]:com.chrome.canary[url_bar]:com.microsoft.emmx[url_bar]:com.microsoft.emmx.beta[url_bar]:com.microsoft.emmx.canary[url_bar]:com.microsoft.emmx.dev[url_bar]:com.opera.browser[url_field]:com.opera.browser.beta[url_bar]:com.opera.mini.native[url_bar]:com.opera.mini.native.beta[url_bar]:com.sec.android.app.sbrowser[location_bar_edit_text]:com.sec.android.app.sbrowser.beta[location_bar_edit_text]:org.mozilla.fennec_aurora[url_bar]:org.mozilla.firefox[url_bar]:org.mozilla.firefox_beta[url_bar]
+--------------------------------------------------
+
+
+==================== DATABASE: data/com.google.android.gms/databases/portable_geller_.db ====================
+
+Tables found:
+- android_metadata
+- geller_data_table
+- geller_key_table
+- geller_metadata_table
+- geller_file_table
+- geller_database_info_table
+
+--- Schema for table: geller_data_table ---
+CREATE TABLE geller_data_table (_id INTEGER PRIMARY KEY, data BLOB NOT NULL)
+--
+com.android.vending	_fi	1741670211856	1	auto
+com.android.vending	_lte	1741670224441	1	auto
+com.google.android.apps.maps	_fot	1741670476853	1741672800000	auto
+com.google.android.apps.maps	_fi	1741670476853	1	auto
+com.google.android.apps.maps	_sno	1741670477563	1	auto
+com.google.android.apps.maps	_sid	1741670477563	1741670477	auto
+com.google.android.apps.maps	_lte	1741672504801	384493	auto
+com.google.android.apps.maps	_se	1741672504801	384492	auto
+--------------------------------------------------
+
+--- Schema for table: apps ---
+CREATE TABLE apps ( app_id TEXT NOT NULL, app_instance_id TEXT, gmp_app_id TEXT, resettable_device_id_hash TEXT, last_bundle_index INTEGER NOT NULL, last_bundle_end_timestamp INTEGER NOT NULL, app_version TEXT, app_store TEXT, gmp_version INTEGER, dev_cert_hash INTEGER, measurement_enabled INTEGER, last_bundle_start_timestamp INTEGER, day INTEGER, daily_public_events_count INTEGER, daily_events_count INTEGER, daily_conversions_count INTEGER, remote_config BLOB, config_fetched_time INTEGER, failed_config_fetch_time INTEGER, app_version_int INTEGER, firebase_instance_id TEXT, daily_error_events_count INTEGER, daily_realtime_events_count INTEGER, health_monitor_sample TEXT, android_id INTEGER, adid_reporting_enabled INTEGER, ssaid_reporting_enabled INTEGER, admob_app_id TEXT, linked_admob_app_id TEXT, dynamite_version INTEGER, safelisted_events TEXT, ga_app_id TEXT, config_last_modified_time TEXT, e_tag TEXT, session_stitching_token TEXT, sgtm_upload_enabled INTEGER, target_os_version INTEGER, session_stitching_token_hash INTEGER, ad_services_version INTEGER, unmatched_first_open_without_ad_id INTEGER, npa_metadata_value INTEGER, attribution_eligibility_status INTEGER, sgtm_preview_key TEXT, dma_consent_state INTEGER, daily_realtime_dcu_count INTEGER, bundle_delivery_index INTEGER, serialized_npa_metadata TEXT, unmatched_pfo INTEGER, unmatched_uwa INTEGER, ad_campaign_info BLOB, daily_registered_triggers_count INTEGER, client_upload_eligibility INTEGER, PRIMARY KEY (app_id))
+
+--- Data for table: apps ---
+app_id	app_instance_id	gmp_app_id	resettable_device_id_hash	last_bundle_index	last_bundle_end_timestamp	app_version	app_store	gmp_version	dev_cert_hash	measurement_enabled	last_bundle_start_timestamp	day	daily_public_events_count	daily_events_count	daily_conversions_count	remote_config	config_fetched_time	failed_config_fetch_time	app_version_int	firebase_instance_id	daily_error_events_count	daily_realtime_events_count	health_monitor_sample	android_id	adid_reporting_enabled	ssaid_reporting_enabled	admob_app_id	linked_admob_app_id	dynamite_version	safelisted_events	ga_app_id	config_last_modified_time	e_tag	session_stitching_token	sgtm_upload_enabled	target_os_version	session_stitching_token_hash	ad_services_version	unmatched_first_open_without_ad_id	npa_metadata_value	attribution_eligibility_status	sgtm_preview_key	dma_consent_state	daily_realtime_dcu_count	bundle_delivery_index	serialized_npa_metadata	unmatched_pfo	unmatched_uwa	ad_campaign_info	daily_registered_triggers_count	client_upload_eligibility
+com.android.vending	018d8a0611cd35267d009922d353ff4a	1:327451421140:android:9c547b5ed466b580	9FED9BFA154901810FFD722F7CC383CB	2	1741670211856	45.2.19-31 [0] [PR] 732221263		95014	-5630964034574879253	1	1741670211856	20158	0	2	0	b'\x08\x91\xc3\x8c\x99\xc0\xe2\x8b\x03\x12\'1:327451421140:android:9c547b5ed466b580"%\n\x1emeasurement.audience.max_count\x12\x03400"4\n-measurement.upload.max_public_user_properties\x12\x03100"5\n-measurement.upload.max_event_name_cardinality\x12\x042000"1\n*measurement.upload.max_public_event_params\x12\x03100":\n4measurement.upload.max_item_scoped_custom_parameters\x12\x0227":\n3measurement.upload.max_event_parameter_value_length\x12\x03500"4\n,measurement.account.time_zone_offset_minutes\x12\x04-420*\x1e\n\x1aunique_buyer_books_unknown\x18\x01*%\n!purchase_completion_games_unknown\x18\x01*\x1e\n\x1aunique_buyer_games_unknown\x18\x01* \n\x1cunique_buyer_unknown_unknown\x18\x01*\x1a\n\x16unique_buyer_games_rpu\x18\x01*\x12\n\x0eview_item_list\x18\x01*\x06\n\x02_s\x18\x01*\x0f\n\x0badd_to_cart\x18\x01*\x1a\n\x16unique_buyer_games_npu\x18\x01*\x1a\n\x16unique_buyer_books_rpu\x18\x01* \n\x1cpurchase_completion_apps_rpu\x18\x01*!\n\x1dpurchase_completion_books_rpu\x18\x01*\r\n\tview_item\x18\x01* \n\x1cpurchase_completion_apps_npu\x18\x01*!\n\x1dpurchase_completion_books_npu\x18\x01*#\n\x1fpurchase_completion_unknown_npu\x18\x01*#\n\x1fpurchase_completion_unknown_rpu\x18\x01*%\n!purchase_completion_books_unknown\x18\x01* \n\x1cpurchase_completion_games_au\x18\x01*\x1a\n\x16unique_buyer_books_npu\x18\x01*\'\n#purchase_completion_unknown_unknown\x18\x01*$\n purchase_completion_apps_unknown\x18\x01*"\n\x1eapp_store_subscription_convert\x18\x01*\x0c\n\x08purchase\x18\x01*\x13\n\x0fadd_to_wishlist\x18\x01*\x19\n\x15unique_buyer_apps_rpu\x18\x01*\x12\n\x0ebegin_checkout\x18\x01*\x1f\n\x1bpurchase_completion_apps_au\x18\x01* \n\x1cpurchase_completion_books_au\x18\x01*\x19\n\x15unique_buyer_apps_npu\x18\x01*\x1c\n\x18unique_buyer_unknown_npu\x18\x01*!\n\x1dpurchase_completion_games_npu\x18\x01*\x1c\n\x18unique_buyer_unknown_rpu\x18\x01*\x1d\n\x19unique_buyer_apps_unknown\x18\x01*"\n\x1epurchase_completion_unknown_au\x18\x01* \n\x1capp_store_subscription_renew\x18\x01*\x17\n\x13view_search_results\x18\x01*!\n\x1dpurchase_completion_games_rpu\x18\x01@\x01z\x8e\x01\n\x04\x08\x01\x10\x01\n\x04\x08\x02\x10\x01\n\x04\x08\x03\x10\x01\n\x04\x08\x04\x10\x01\x1a\x08\n\x01a\x12\x03ads\x1a\x0b\n\x01s\x12\x06search\x1a\x0c\n\x01y\x12\x07youtube\x1a\x0e\n\x01p\x12\tplaystore\x1a\r\n\x01h\x12\x08shopping\x1a\t\n\x01m\x12\x04maps\x1a\x0b\n\x01o\x12\x06others \x00*\x04\x08\x03\x10\x01*\x04\x08\x04\x10\x01*\x04\x08\x01\x10\x01*\x04\x08\x02\x10\x01\x18\x02r\x0cG-BWMQXWFMRZ'	1741670224437	0	84521930	cMa6DFNoRNm6FRHELalRFh	0	0	NULL	0	1	NULL	NULL	NULL	115	NULL	NULL	NULL	2951826708761774310	12ffb053c6bfafbd37795092f2214e3f	0	35	0	13	0	NULL	0	NULL	0	0	1		NULL	NULL	b''	NULL	NULL
+com.google.android.apps.maps	eb07085c2ad9033b65ba8481470ebc5a	1:493454522602:android:4877c2b5f408a8b2	9F89C84A559F573636A47FF8DAED0D33	48	1741672502781	11.129.0103	manual_install	118001	-5630964034574879253	1	1741672502781	20158	42	48	6	b'\x08\x9e\x9b\x99\xdb\xaf\xee\x8b\x03\x12\'1:493454522602:android:4877c2b5f408a8b2"%\n\x1emeasurement.audience.max_count\x12\x03400"4\n-measurement.upload.max_public_user_properties\x12\x03100"5\n-measurement.upload.max_event_name_cardinality\x12\x042000"1\n*measurement.upload.max_public_event_params\x12\x03100":\n4measurement.upload.max_item_scoped_custom_parameters\x12\x0227":\n3measurement.upload.max_event_parameter_value_length\x12\x03500"4\n,measurement.account.time_zone_offset_minutes\x12\x04-420*\x1f\n\x1bGOLDFINGER_EXPLORE_TAB_AGMM\x18\x01*"\n\x1eapp_store_subscription_convert\x18\x01*"\n\x1ePERSONAL_SCORE_PLACESHEET_IGMM\x18\x01*\x15\n\x11TYPED_SEARCH_AGMM\x18\x01*\x0c\n\x08purchase\x18\x01*\x13\n\x0fadd_to_wishlist\x18\x01* \n\x1cBROWSE_RESULTS_CAT_LIST_AGMM\x18\x01*\x12\n\x0eview_item_list\x18\x01*\x06\n\x02_s\x18\x01*$\n EXPLORE_TAB_QUERY_SHORTCUTS_AGMM\x18\x01*\x0f\n\x0badd_to_cart\x18\x01*$\n EXPLORE_TAB_QUERY_SHORTCUTS_IGMM\x18\x01*\x12\n\x0ebegin_checkout\x18\x01*\x15\n\x11TYPED_SEARCH_IGMM\x18\x01*\r\n\tview_item\x18\x01* \n\x1cBROWSE_RESULTS_CAT_LIST_IGMM\x18\x01*\x11\n\rAPP_OPEN_IGMM\x18\x01* \n\x1capp_store_subscription_renew\x18\x01*\x1f\n\x1bGOLDFINGER_EXPLORE_TAB_IGMM\x18\x01*\x17\n\x13view_search_results\x18\x01z\x8e\x01\n\x04\x08\x01\x10\x01\n\x04\x08\x02\x10\x01\n\x04\x08\x03\x10\x01\n\x04\x08\x04\x10\x01\x1a\x08\n\x01a\x12\x03ads\x1a\x0b\n\x01s\x12\x06search\x1a\x0c\n\x01y\x12\x07youtube\x1a\x0e\n\x01p\x12\tplaystore\x1a\r\n\x01h\x12\x08shopping\x1a\t\n\x01m\x12\x04maps\x1a\x0b\n\x01o\x12\x06others \x00*\x04\x08\x03\x10\x01*\x04\x08\x04\x10\x01*\x04\x08\x01\x10\x01*\x04\x08\x02\x10\x01\x18\x02@\x01r\x0cG-EFQ3YSSXJX'	1741670489222	0	1067529190	cDYO3F1-QWiQ1bLClXeilr	0	7	NULL	0	0	NULL	NULL	NULL	140	NULL	NULL	NULL	8565561962848531501	dc5e15fc05df7da90181e86d4c633241	0	35	9145607148213011436	13	1	1	0	NULL	0	0	6	-	0	0	b''	0	NULL
+--------------------------------------------------
+
+--- Schema for table: queue ---
+CREATE TABLE queue ( app_id TEXT NOT NULL, bundle_end_timestamp INTEGER NOT NULL, data BLOB NOT NULL, has_realtime INTEGER, retry_count INTEGER)
+
+--- Data for table: queue ---
+app_id	bundle_end_timestamp	data	has_realtime	retry_count
+com.google.android.apps.maps	1741672502781	b"\x1f\x8b\x08\x00\x00\x00\x00\x00\x00\xff\xe3`\x14\xf2\xe7\xe2\xe2b\x8a\xcf\x17bI,-\xc9\xe7\xe2\xe4b\x8eO-\x91\xe8;-\xcc%\x0cd\x16'\x0b\xf1\xf8&\x16\x14;&\x97d\x96e\x96Tr\xf1\x83\x043%\xb6\xff\xbf\xf6p\xea\x9eGW\xa3\x85\x98\xe2S%\xfe\xae\x9e:\xef\x86\x91B\xdf\xf5F %%\xc2\xb1\xf5\xc6\xcc\xb97\x8c\x84X\xe2\xd3\xf2K\x14\x1a\xf6-\x07\x89\xf2\xc1D\x99\xe3\xd32\x15\x18\xa5\xf89~\xdf\x85\xaa*\xce\xcb\x07\n\x08#\td\xa6(\x9c\x9d\xb0\x7f\x1f\x9b\x94 \xc7\xc3\xdd \xb3\x81\x829%\xa9\now\x8bK\t\xc0\x84\x80\x0eIUx\x03\x14\xe1G(\xca+HT`\xd0\x80\xb8\xc7\x00BY,\x9d\x06\xa2\x9c\xd8\x13\xf3R\x8a\xf23S\xbc\x98\x0cM\x83\x84\x8bS\xb2\xe3\xd3\x0b2\xf2\xf3R\xcdL\xe2+,\xcc\xe2\xcdL\xa2XS\xf3tK\x8b\x13\x18\xb2\xf8r\x13\xf3J\x13s\xe23\xf3\x8aK\x12sr\x8ad\x92\xf3s\xf5\xd2\xf3\xf3\xd3sR\xf5\xa0\xa6\xe8%\x16\x14\x14\xeb\xe5\x02\x83\xa6\x89\x91\xdb\xd0P\xcf\xd0\xc8R\xcf\xc0\xd0\xc0\xb8\x83\xf1\xe3L\xf6U\x8c\n\xa9I\x06\xe6\x06\x16\xa6\xc9F\x89)\x96\x06\xc6\xc6If\xa6I\x89\x16&\x16\x86&\xe6\x06\xa9I\xc9\xa6\x89\x1b\x18_\xbf^\xde\xb8\xbdq\xf3\xdb\x8d\x8c;\x18\rN1\xaa\x1bZ\x99X\x1a\x9b\x98\x9a\x98\x1a\x19\x99\x19\x18YA\xed\xb12\xb107O6J2M31\xb0H\xb4H2\xba\xc0\xf8j\xd2\x7f`0\xbdb\x14\xe0\xe0\x10b\xe1`\x14`\x94\x02\x93\n\x0c !~L!!L!9L!%T\xa1O\x8cb\xc9.\x91\xfe\xc6n\x86\xba\x81\xe1\x99\x81\x86I>\xce9\x11\xa9\x999E?\x18\x9f=o\xf9\xcb<\x83i\xde\xec\x99\xb7\xd7\xbf\xebf~\xc1\xb4\xf9k\x1b\xf7\x07\xa6\x1e\xc6E\xcc,\xee\x86\xba\xba3X\x94\x17\xb00\xecba5\xb4\xb444<\xc0\xc2p\x81\x85\xf7\x11\x0b\x1f\x07\x83\x00\x83\x04\x030v\x18\x0c\x18,\x18_\xb0\xb0\xcdb\xf5t\x04\x81r0\xe9\xe8\\\x9e\xee\xe2\x9a\x9e\x1c\xe6X\x98U\x99\x1eX\xee\xeaH<\xb0\xe5\x02\x00=5h\xa0\xc8\x02\x00\x00"	0	NULL
+--------------------------------------------------
+
+--- Schema for table: raw_events_metadata ---
+CREATE TABLE raw_events_metadata ( app_id TEXT NOT NULL, metadata_fingerprint INTEGER NOT NULL, metadata BLOB NOT NULL, PRIMARY KEY (app_id, metadata_fingerprint))
+
+--- Data for table: raw_events_metadata ---
+(No data in this table)
+--
+--- Data for table: raw_events ---
+(No data in this table)
+--------------------------------------------------
+
+--- Schema for table: event_filters ---
+CREATE TABLE event_filters ( app_id TEXT NOT NULL, audience_id INTEGER NOT NULL, filter_id INTEGER NOT NULL, event_name TEXT NOT NULL, data BLOB NOT NULL, session_scoped BOOLEAN, PRIMARY KEY (app_id, event_name, audience_id, filter_id))
+
+--- Data for table: event_filters ---
+app_id	audience_id	filter_id	event_name	data	session_scoped
+com.android.vending	1	1	_iap	b'\x08\x01\x12\x04_iap0\x00'	NULL
+com.android.vending	1	2	app_store_subscription_renew	b'\x08\x02\x12\x1capp_store_subscription_renew0\x00'	NULL
+com.android.vending	1	3	app_store_subscription_convert	b'\x08\x03\x12\x1eapp_store_subscription_convert0\x00'	NULL
+com.android.vending	1	4	purchase	b'\x08\x04\x12\x08purchase0\x00'	NULL
+com.android.vending	1	5	ecommerce_purchase	b'\x08\x05\x12\x12ecommerce_purchase0\x00'	NULL
+com.android.vending	11	0	_s	b'\x08\x00\x12\x02_s0\x01'	NULL
+com.android.vending	13	0	unique_buyer_apps_rpu	b'\x08\x00\x12\x15unique_buyer_apps_rpu0\x01'	NULL
+com.android.vending	13	1	unique_buyer_books_rpu	b'\x08\x01\x12\x16unique_buyer_books_rpu0\x01'	NULL
+com.android.vending	13	2	unique_buyer_games_rpu	b'\x08\x02\x12\x16unique_buyer_games_rpu0\x01'	NULL
+com.android.vending	13	3	unique_buyer_unknown_rpu	b'\x08\x03\x12\x18unique_buyer_unknown_rpu0\x01'	NULL
+com.android.vending	12	0	unique_buyer_apps_npu	b'\x08\x00\x12\x15unique_buyer_apps_npu0\x01'	NULL
+com.android.vending	12	1	unique_buyer_books_npu	b'\x08\x01\x12\x16unique_buyer_books_npu0\x01'	NULL
+com.android.vending	12	2	unique_buyer_games_npu	b'\x08\x02\x12\x16unique_buyer_games_npu0\x01'	NULL
+com.android.vending	12	3	unique_buyer_unknown_npu	b'\x08\x03\x12\x18unique_buyer_unknown_npu0\x01'	NULL
+com.android.vending	14	0	purchase_completion_apps_au	b'\x08\x00\x12\x1bpurchase_completion_apps_au0\x01'	NULL
+com.android.vending	14	1	purchase_completion_apps_games_au	b'\x08\x01\x12!purchase_completion_apps_games_au0\x01'	NULL
+com.android.vending	14	2	purchase_completion_books_au	b'\x08\x02\x12\x1cpurchase_completion_books_au0\x01'	NULL
+com.android.vending	14	3	purchase_completion_games_au	b'\x08\x03\x12\x1cpurchase_completion_games_au0\x01'	NULL
+com.android.vending	14	4	purchase_completion_iap_au	b'\x08\x04\x12\x1apurchase_completion_iap_au0\x01'	NULL
+com.android.vending	14	5	purchase_completion_unknown_au	b'\x08\x05\x12\x1epurchase_completion_unknown_au0\x01'	NULL
+com.android.vending	15	0	unique_buyer_apps_npu	b'\x08\x00\x12\x15unique_buyer_apps_npu0\x00'	NULL
+com.android.vending	15	1	unique_buyer_books_npu	b'\x08\x01\x12\x16unique_buyer_books_npu0\x00'	NULL
+com.android.vending	15	2	unique_buyer_games_npu	b'\x08\x02\x12\x16unique_buyer_games_npu0\x00'	NULL
+com.android.vending	15	3	unique_buyer_unknown_npu	b'\x08\x03\x12\x18unique_buyer_unknown_npu0\x00'	NULL
+com.android.vending	17	0	unique_buyer_apps_rpu	b'\x08\x00\x12\x15unique_buyer_apps_rpu0\x00'	NULL
+com.android.vending	17	1	unique_buyer_games_rpu	b'\x08\x01\x12\x16unique_buyer_games_rpu0\x00'	NULL
+com.android.vending	17	2	unique_buyer_books_rpu	b'\x08\x02\x12\x16unique_buyer_books_rpu0\x00'	NULL
+com.android.vending	17	3	unique_buyer_unknown_rpu	b'\x08\x03\x12\x18unique_buyer_unknown_rpu0\x00'	NULL
+com.android.vending	18	0	purchase_completion_apps_au	b'\x08\x00\x12\x1bpurchase_completion_apps_au0\x00'	NULL
+com.android.vending	18	1	purchase_completion_games_au	b'\x08\x01\x12\x1cpurchase_completion_games_au0\x00'	NULL
+com.android.vending	18	2	purchase_completion_books_au	b'\x08\x02\x12\x1cpurchase_completion_books_au0\x00'	NULL
+com.android.vending	18	3	purchase_completion_unknown_au	b'\x08\x03\x12\x1epurchase_completion_unknown_au0\x00'	NULL
+com.android.vending	19	0	_s	b'\x08\x00\x12\x02_s0\x00'	NULL
+com.android.vending	19	1	purchase	b'\x08\x01\x12\x08purchase0\x00'	NULL
+com.google.android.apps.maps	2	0	DIRECTIONS_REQUEST_IGMM	b'\x08\x00\x12\x17DIRECTIONS_REQUEST_IGMM*\x05\x08\x02\x1a\x010'	NULL
+com.google.android.apps.maps	3	0	GOLDFINGER_EXPLORE_TAB_IGMM	b'\x08\x00\x12\x1bGOLDFINGER_EXPLORE_TAB_IGMM*\x05\x08\x02\x1a\x010'	NULL
+com.google.android.apps.maps	5	0	GOLDFINGER_EXPLORE_TAB_AGMM	b'\x08\x00\x12\x1bGOLDFINGER_EXPLORE_TAB_AGMM*\x05\x08\x02\x1a\x010'	NULL
+com.google.android.apps.maps	5	1	GOLDFINGER_EXPLORE_TAB_IGMM	b'\x08\x01\x12\x1bGOLDFINGER_EXPLORE_TAB_IGMM*\x05\x08\x02\x1a\x010'	NULL
+com.google.android.apps.maps	9	0	NAVIGATION_START_AGMM	b'\x08\x00\x12\x15NAVIGATION_START_AGMM*\x05\x08\x02\x1a\x010'	NULL
+com.google.android.apps.maps	9	1	NAVIGATION_START_IGMM	b'\x08\x01\x12\x15NAVIGATION_START_IGMM*\x05\x08\x02\x1a\x010'	NULL
+com.google.android.apps.maps	12	0	SAVE_PLACE_IGMM	b'\x08\x00\x12\x0fSAVE_PLACE_IGMM*\x05\x08\x02\x1a\x010'	NULL
+com.google.android.apps.maps	8	0	TYPED_SEARCH_AGMM	b'\x08\x00\x12\x11TYPED_SEARCH_AGMM*\x05\x08\x02\x1a\x010'	NULL
+com.google.android.apps.maps	8	1	TYPED_SEARCH_IGMM	b'\x08\x01\x12\x11TYPED_SEARCH_IGMM*\x05\x08\x02\x1a\x010'	NULL
+com.google.android.apps.maps	6	0	STREAM_ONBOARDED_AGMM	b'\x08\x00\x12\x15STREAM_ONBOARDED_AGMM*\x05\x08\x02\x1a\x010'	NULL
+com.google.android.apps.maps	7	0	PERSONAL_PLACES_VIEW_FOLLOWED_LIST_IGMM	b"\x08\x00\x12'PERSONAL_PLACES_VIEW_FOLLOWED_LIST_IGMM*\x05\x08\x02\x1a\x010"	NULL
+com.google.android.apps.maps	7	1	EXPLORE_TAB_BEST_OF_LISTS_IGMM	b'\x08\x01\x12\x1eEXPLORE_TAB_BEST_OF_LISTS_IGMM*\x05\x08\x02\x1a\x010'	NULL
+com.google.android.apps.maps	7	2	EXPLORE_TAB_EDITORIAL_LISTS_iGMM	b'\x08\x02\x12 EXPLORE_TAB_EDITORIAL_LISTS_iGMM*\x05\x08\x02\x1a\x010'	NULL
+com.google.android.apps.maps	7	3	EXPLORE_TAB_BEST_OF_LISTS_FULL_LIST_IGMM	b'\x08\x03\x12(EXPLORE_TAB_BEST_OF_LISTS_FULL_LIST_IGMM*\x05\x08\x02\x1a\x010'	NULL
+com.google.android.apps.maps	13	0	LOCATION_SHARING_AGMM	b'\x08\x00\x12\x15LOCATION_SHARING_AGMM*\x05\x08\x02\x1a\x010'	NULL
+com.google.android.apps.maps	13	1	LOCATION_SHARING_IGMM	b'\x08\x01\x12\x15LOCATION_SHARING_IGMM*\x05\x08\x02\x1a\x010'	NULL
+com.google.android.apps.maps	10	0	DIRECTIONS_REQUEST_AGMM	b'\x08\x00\x12\x17DIRECTIONS_REQUEST_AGMM*\x05\x08\x02\x1a\x010'	NULL
+com.google.android.apps.maps	10	1	DIRECTIONS_REQUEST_IGMM	b'\x08\x01\x12\x17DIRECTIONS_REQUEST_IGMM*\x05\x08\x02\x1a\x010'	NULL
+com.google.android.apps.maps	11	0	VOICE_SEARCH_AGMM	b'\x08\x00\x12\x11VOICE_SEARCH_AGMM*\x05\x08\x02\x1a\x010'	NULL
+com.google.android.apps.maps	11	1	VOICE_SEARCH_IGMM	b'\x08\x01\x12\x11VOICE_SEARCH_IGMM*\x05\x08\x02\x1a\x010'	NULL
+com.google.android.apps.maps	14	0	RIDDLER_YES_NO_AGMM	b'\x08\x00\x12\x13RIDDLER_YES_NO_AGMM*\x05\x08\x02\x1a\x010'	NULL
+com.google.android.apps.maps	14	1	PLACE_QA_ANSWER_AGMM	b'\x08\x01\x12\x14PLACE_QA_ANSWER_AGMM*\x05\x08\x02\x1a\x010'	NULL
+com.google.android.apps.maps	14	2	UPLOAD_PHOTO	b'\x08\x02\x12\x0cUPLOAD_PHOTO*\x05\x08\x02\x1a\x010'	NULL
+com.google.android.apps.maps	14	3	TODOLIST_SUBMIT_RATING_AGMM	b'\x08\x03\x12\x1bTODOLIST_SUBMIT_RATING_AGMM*\x05\x08\x02\x1a\x010'	NULL
+com.google.android.apps.maps	14	4	TODOLIST_SUBMIT_RATING_IGMM	b'\x08\x04\x12\x1bTODOLIST_SUBMIT_RATING_IGMM*\x05\x08\x02\x1a\x010'	NULL
+com.google.android.apps.maps	14	5	UPLOAD_PHOTO_IGMM	b'\x08\x05\x12\x11UPLOAD_PHOTO_IGMM*\x05\x08\x02\x1a\x010'	NULL
+com.google.android.apps.maps	15	0	_f	b'\x08\x00\x12\x02_f*\x05\x08\x02\x1a\x010'	NULL
+com.google.android.apps.maps	18	0	VIEWPORT_CHANGES_AGMM	b'\x08\x00\x12\x15VIEWPORT_CHANGES_AGMM*\x05\x08\x02\x1a\x010'	NULL
+com.google.android.apps.maps	18	1	VIEWPORT_CHANGES_IGMM	b'\x08\x01\x12\x15VIEWPORT_CHANGES_IGMM*\x05\x08\x02\x1a\x010'	NULL
+com.google.android.apps.maps	16	0	SIGN_IN_IGMM	b'\x08\x00\x12\x0cSIGN_IN_IGMM*\x05\x08\x02\x1a\x010'	NULL
+com.google.android.apps.maps	17	0	LOCATION_HISTORY_IGMM	b'\x08\x00\x12\x15LOCATION_HISTORY_IGMM*\x05\x08\x02\x1a\x010'	NULL
+com.google.android.apps.maps	28	0	VOICE_SEARCH_AGMM	b'\x08\x00\x12\x11VOICE_SEARCH_AGMM*\x05\x08\x02\x1a\x010'	NULL
+com.google.android.apps.maps	29	0	TYPED_SEARCH_IGMM	b'\x08\x00\x12\x11TYPED_SEARCH_IGMM*\x05\x08\x02\x1a\x010'	NULL
+com.google.android.apps.maps	20	0	DIRECTIONS_REQUEST_AGMM	b'\x08\x00\x12\x17DIRECTIONS_REQUEST_AGMM*\x05\x08\x02\x1a\x010'	NULL
+com.google.android.apps.maps	31	0	RIDDLER_YES_NO_AGMM	b'\x08\x00\x12\x13RIDDLER_YES_NO_AGMM*\x05\x08\x02\x1a\x010'	NULL
+com.google.android.apps.maps	31	1	PLACE_QA_ANSWER_AGMM	b'\x08\x01\x12\x14PLACE_QA_ANSWER_AGMM*\x05\x08\x02\x1a\x010'	NULL
+com.google.android.apps.maps	31	2	PLACE_QA_QUESTION_AGMM	b'\x08\x02\x12\x16PLACE_QA_QUESTION_AGMM*\x05\x08\x02\x1a\x010'	NULL
+com.google.android.apps.maps	31	3	UPLOAD_PHOTO	b'\x08\x03\x12\x0cUPLOAD_PHOTO*\x05\x08\x02\x1a\x010'	NULL
+com.google.android.apps.maps	31	4	TODOLIST_SUBMIT_RATING_AGMM	b'\x08\x04\x12\x1bTODOLIST_SUBMIT_RATING_AGMM*\x05\x08\x02\x1a\x010'	NULL
+com.google.android.apps.maps	24	0	LOCATION_SHARING_AGMM	b'\x08\x00\x12\x15LOCATION_SHARING_AGMM*\x05\x08\x02\x1a\x010'	NULL
+com.google.android.apps.maps	27	0	VOICE_SEARCH_IGMM	b'\x08\x00\x12\x11VOICE_SEARCH_IGMM*\x05\x08\x02\x1a\x010'	NULL
+com.google.android.apps.maps	21	0	GOLDFINGER_EXPLORE_TAB_IGMM	b'\x08\x00\x12\x1bGOLDFINGER_EXPLORE_TAB_IGMM*\x05\x08\x02\x1a\x010'	NULL
+com.google.android.apps.maps	33	0	VIEWPORT_CHANGES_IGMM	b'\x08\x00\x12\x15VIEWPORT_CHANGES_IGMM*\x05\x08\x02\x1a\x010'	NULL
+com.google.android.apps.maps	23	0	LOCATION_SHARING_IGMM	b'\x08\x00\x12\x15LOCATION_SHARING_IGMM*\x05\x08\x02\x1a\x010'	NULL
+com.google.android.apps.maps	32	0	UPLOAD_PHOTO_IGMM	b'\x08\x00\x12\x11UPLOAD_PHOTO_IGMM*\x05\x08\x02\x1a\x010'	NULL
+com.google.android.apps.maps	32	1	TODOLIST_SUBMIT_RATING_IGMM	b'\x08\x01\x12\x1bTODOLIST_SUBMIT_RATING_IGMM*\x05\x08\x02\x1a\x010'	NULL
+com.google.android.apps.maps	22	0	GOLDFINGER_EXPLORE_TAB_AGMM	b'\x08\x00\x12\x1bGOLDFINGER_EXPLORE_TAB_AGMM*\x05\x08\x02\x1a\x010'	NULL
+com.google.android.apps.maps	34	0	VIEWPORT_CHANGES_AGMM	b'\x08\x00\x12\x15VIEWPORT_CHANGES_AGMM*\x05\x08\x02\x1a\x010'	NULL
+com.google.android.apps.maps	26	0	NAVIGATION_START_AGMM	b'\x08\x00\x12\x15NAVIGATION_START_AGMM*\x05\x08\x02\x1a\x010'	NULL
+com.google.android.apps.maps	30	0	TYPED_SEARCH_AGMM	b'\x08\x00\x12\x11TYPED_SEARCH_AGMM*\x05\x08\x02\x1a\x010'	NULL
+com.google.android.apps.maps	19	0	DIRECTIONS_REQUEST_IGMM	b'\x08\x00\x12\x17DIRECTIONS_REQUEST_IGMM*\x05\x08\x02\x1a\x010'	NULL
+com.google.android.apps.maps	25	0	NAVIGATION_START_IGMM	b'\x08\x00\x12\x15NAVIGATION_START_IGMM*\x05\x08\x02\x1a\x010'	NULL
+com.google.android.apps.maps	35	0	CHANGE_ROUTE_MODE_TO_TWO_WHEELER_AGMM	b'\x08\x00\x12%CHANGE_ROUTE_MODE_TO_TWO_WHEELER_AGMM*\x05\x08\x02\x1a\x010'	NULL
+com.google.android.apps.maps	37	0	PERSONAL_PLACES_VIEW_LIST_AGMM	b'\x08\x00\x12\x1ePERSONAL_PLACES_VIEW_LIST_AGMM*\x05\x08\x02\x1a\x010'	NULL
+com.google.android.apps.maps	37	1	EXPLORE_TAB_BEST_OF_LISTS_AGMM	b'\x08\x01\x12\x1eEXPLORE_TAB_BEST_OF_LISTS_AGMM*\x05\x08\x02\x1a\x010'	NULL
+com.google.android.apps.maps	37	2	EXPLORE_TAB_BEST_OF_LISTS_FULL_LIST_AGMM	b'\x08\x02\x12(EXPLORE_TAB_BEST_OF_LISTS_FULL_LIST_AGMM*\x05\x08\x02\x1a\x010'	NULL
+com.google.android.apps.maps	37	3	EXPLORE_TAB_EDIT_LISTS_FULL_LIST_AGMM	b'\x08\x03\x12%EXPLORE_TAB_EDIT_LISTS_FULL_LIST_AGMM*\x05\x08\x02\x1a\x010'	NULL
+com.google.android.apps.maps	36	0	PERSONAL_PLACES_VIEW_FOLLOWED_LIST_IGMM	b"\x08\x00\x12'PERSONAL_PLACES_VIEW_FOLLOWED_LIST_IGMM*\x05\x08\x02\x1a\x010"	NULL
+com.google.android.apps.maps	36	1	EXPLORE_TAB_BEST_OF_LISTS_FULL_LIST_IGMM	b'\x08\x01\x12(EXPLORE_TAB_BEST_OF_LISTS_FULL_LIST_IGMM*\x05\x08\x02\x1a\x010'	NULL
+com.google.android.apps.maps	36	2	EXPLORE_TAB_EDITORIAL_LISTS_IGMM	b'\x08\x02\x12 EXPLORE_TAB_EDITORIAL_LISTS_IGMM*\x05\x08\x02\x1a\x010'	NULL
+com.google.android.apps.maps	36	3	EXPLORE_TAB_BEST_OF_LISTS_IGMM	b'\x08\x03\x12\x1eEXPLORE_TAB_BEST_OF_LISTS_IGMM*\x05\x08\x02\x1a\x010'	NULL
+com.google.android.apps.maps	36	4	PERSONAL_PLACES_VIEW_LIST_IGMM	b'\x08\x04\x12\x1ePERSONAL_PLACES_VIEW_LIST_IGMM*\x05\x08\x02\x1a\x010'	NULL
+com.google.android.apps.maps	39	0	UPLOAD_PHOTO_IGMM	b'\x08\x00\x12\x11UPLOAD_PHOTO_IGMM*\x05\x08\x02\x1a\x010'	NULL
+com.google.android.apps.maps	39	1	TODOLIST_SUBMIT_RATING_IGMM	b'\x08\x01\x12\x1bTODOLIST_SUBMIT_RATING_IGMM*\x05\x08\x02\x1a\x010'	NULL
+com.google.android.apps.maps	39	2	WRITE_REVIEW_IGMM	b'\x08\x02\x12\x11WRITE_REVIEW_IGMM*\x05\x08\x02\x1a\x010'	NULL
+com.google.android.apps.maps	39	3	VIEW_CONTRIBUTIONS_IGMM	b'\x08\x03\x12\x17VIEW_CONTRIBUTIONS_IGMM*\x05\x08\x02\x1a\x010'	NULL
+com.google.android.apps.maps	38	0	PERSONAL_PLACES_VIEW_LIST_AGMM	b'\x08\x00\x12\x1ePERSONAL_PLACES_VIEW_LIST_AGMM*\x05\x08\x02\x1a\x010'	NULL
+com.google.android.apps.maps	38	1	PERSONAL_PLACES_VIEW_LIST_IGMM	b'\x08\x01\x12\x1ePERSONAL_PLACES_VIEW_LIST_IGMM*\x05\x08\x02\x1a\x010'	NULL
+com.google.android.apps.maps	38	2	EXPLORE_TAB_BEST_OF_LISTS_AGMM	b'\x08\x02\x12\x1eEXPLORE_TAB_BEST_OF_LISTS_AGMM*\x05\x08\x02\x1a\x010'	NULL
+com.google.android.apps.maps	38	3	EXPLORE_TAB_BEST_OF_LISTS_IGMM	b'\x08\x03\x12\x1eEXPLORE_TAB_BEST_OF_LISTS_IGMM*\x05\x08\x02\x1a\x010'	NULL
+com.google.android.apps.maps	38	4	EXPLORE_TAB_BEST_OF_LISTS_FULL_LIST_AGMM	b'\x08\x04\x12(EXPLORE_TAB_BEST_OF_LISTS_FULL_LIST_AGMM*\x05\x08\x02\x1a\x010'	NULL
+com.google.android.apps.maps	38	5	EXPLORE_TAB_BEST_OF_LISTS_FULL_LIST_IGMM	b'\x08\x05\x12(EXPLORE_TAB_BEST_OF_LISTS_FULL_LIST_IGMM*\x05\x08\x02\x1a\x010'	NULL
+com.google.android.apps.maps	38	6	EXPLORE_TAB_EDITORIAL_LISTS_AGMM	b'\x08\x06\x12 EXPLORE_TAB_EDITORIAL_LISTS_AGMM*\x05\x08\x02\x1a\x010'	NULL
+com.google.android.apps.maps	38	7	EXPLORE_TAB_EDITORIAL_LISTS_IGMM	b'\x08\x07\x12 EXPLORE_TAB_EDITORIAL_LISTS_IGMM*\x05\x08\x02\x1a\x010'	NULL
+com.google.android.apps.maps	38	8	EXPLORE_TAB_EDIT_LISTS_FULL_IGMM	b'\x08\x08\x12 EXPLORE_TAB_EDIT_LISTS_FULL_IGMM*\x05\x08\x02\x1a\x010'	NULL
+com.google.android.apps.maps	38	9	EXPLORE_TAB_EDIT_LISTS_FULL_LIST_AGMM	b'\x08\t\x12%EXPLORE_TAB_EDIT_LISTS_FULL_LIST_AGMM*\x05\x08\x02\x1a\x010'	NULL
+com.google.android.apps.maps	40	0	RIDDLER_YES_NO_AGMM	b'\x08\x00\x12\x13RIDDLER_YES_NO_AGMM*\x05\x08\x02\x1a\x010'	NULL
+com.google.android.apps.maps	40	1	PLACE_QA_ANSWER_AGMM	b'\x08\x01\x12\x14PLACE_QA_ANSWER_AGMM*\x05\x08\x02\x1a\x010'	NULL
+com.google.android.apps.maps	40	2	PLACE_QA_QUESTION_AGMM	b'\x08\x02\x12\x16PLACE_QA_QUESTION_AGMM*\x05\x08\x02\x1a\x010'	NULL
+com.google.android.apps.maps	40	3	UPLOAD_PHOTO	b'\x08\x03\x12\x0cUPLOAD_PHOTO*\x05\x08\x02\x1a\x010'	NULL
+com.google.android.apps.maps	40	4	TODOLIST_SUBMIT_RATING_AGMM	b'\x08\x04\x12\x1bTODOLIST_SUBMIT_RATING_AGMM*\x05\x08\x02\x1a\x010'	NULL
+com.google.android.apps.maps	40	5	WRITE_REVIEW_AGMM	b'\x08\x05\x12\x11WRITE_REVIEW_AGMM*\x05\x08\x02\x1a\x010'	NULL
+com.google.android.apps.maps	40	6	VIEW_CONTRIBUTIONS_AGMM	b'\x08\x06\x12\x17VIEW_CONTRIBUTIONS_AGMM*\x05\x08\x02\x1a\x010'	NULL
+com.google.android.apps.maps	42	0	PERSONAL_SCORE_PLACESHEET_IGMM	b'\x08\x00\x12\x1ePERSONAL_SCORE_PLACESHEET_IGMM*\x05\x08\x02\x1a\x010'	NULL
+com.google.android.apps.maps	41	0	PERSONAL_SCORE_PROMO_AGMM	b'\x08\x00\x12\x19PERSONAL_SCORE_PROMO_AGMM*\x05\x08\x02\x1a\x010'	NULL
+com.google.android.apps.maps	41	1	PERSONAL_SCORE_PLACESHEET_AGMM	b'\x08\x01\x12\x1ePERSONAL_SCORE_PLACESHEET_AGMM*\x05\x08\x02\x1a\x010'	NULL
+com.google.android.apps.maps	45	1	CHANGE_ROUTE_MODE_TO_TWO_WHEELER_AGMM	b'\x08\x01\x12%CHANGE_ROUTE_MODE_TO_TWO_WHEELER_AGMM*\x05\x08\x02\x1a\x010'	NULL
+com.google.android.apps.maps	46	1	_au	b'\x08\x01\x12\x03_au*\x05\x08\x02\x1a\x010'	NULL
+com.google.android.apps.maps	50	2	TYPED_SEARCH_IGMM	b'\x08\x02\x12\x11TYPED_SEARCH_IGMM0\x01'	NULL
+com.google.android.apps.maps	50	3	EXPLORE_TAB_QUERY_SHORTCUTS_IGMM	b'\x08\x03\x12 EXPLORE_TAB_QUERY_SHORTCUTS_IGMM0\x01'	NULL
+com.google.android.apps.maps	50	4	EXPLORE_TAB_QUERY_SHORTCUTS_MORE_IGMM	b'\x08\x04\x12%EXPLORE_TAB_QUERY_SHORTCUTS_MORE_IGMM0\x01'	NULL
+--------------------------------------------------
+
+--- Schema for table: property_filters ---
+CREATE TABLE property_filters ( app_id TEXT NOT NULL, audience_id INTEGER NOT NULL, filter_id INTEGER NOT NULL, property_name TEXT NOT NULL, data BLOB NOT NULL, session_scoped BOOLEAN, PRIMARY KEY (app_id, property_name, audience_id, filter_id))
+
+--- Data for table: property_filters ---
+app_id	audience_id	filter_id	property_name	data	session_scoped
+com.android.vending	16	0	session_duration_per_session	b'\x08\x00\x12\x1csession_duration_per_session\x1a\n\x12\x06\x08\x02\x1a\x0210\x18\x00 \x000\x01'	1
+com.google.android.apps.maps	2	1	country_id	b'\x08\x01\x12\ncountry_id\x1a\x08\n\x06\x08\x04\x12\x02US'	NULL
+com.google.android.apps.maps	3	1	country_id	b'\x08\x01\x12\ncountry_id\x1a\x08\n\x06\x08\x04\x12\x02US'	NULL
+--
+--- Schema for table: checkup_reencryption_table ---
+CREATE TABLE `checkup_reencryption_table` (`accountName` TEXT NOT NULL, `lookupHash` BLOB NOT NULL, `decryptedHash` BLOB NOT NULL, `serverCryptoContext` BLOB NOT NULL, PRIMARY KEY(`accountName`, `lookupHash`))
+
+--- Data for table: checkup_reencryption_table ---
+(No data in this table)
+--------------------------------------------------
+
+
+==================== DATABASE: data/com.google.android.gms/databases/search_query_history.db ====================
+
+Tables found:
+- android_metadata
+- suggestions
+
+--- Schema for table: suggestions ---
+CREATE TABLE suggestions(_id TEXT PRIMARY KEY,app_package_name TEXT,suggest_intent_query TEXT,date LONG,UNIQUE (app_package_name, suggest_intent_query) ON CONFLICT REPLACE)
+
+--- Data for table: suggestions ---
+(No data in this table)
+--------------------------------------------------
+
+
+==================== DATABASE: data/com.google.android.gms/databases/account_settings_repository.db ====================
+
+Tables found:
+- android_metadata
+- resource_info
+- per_device_dismissed_onboarding_flow
+- room_master_table
+
+--- Schema for table: resource_info ---
+--
+- sqlite_sequence
+- gaia_verifications
+- signals_events
+- on_demand_consent_impressions
+- external_consent_activity_impressions
+- on_demand_consent_v2_impressions
+
+--- Schema for table: sim_verifications ---
+CREATE TABLE sim_verifications(_id INTEGER PRIMARY KEY AUTOINCREMENT, phone_number TEXT, verification_time INTEGER, imsi TEXT UNIQUE NOT NULL, sim_readable_number TEXT, state INTEGER, verification_method TEXT DEFAULT '', sim_slot INTEGER DEFAULT -1)
+
+--- Data for table: sim_verifications ---
+(No data in this table)
+--------------------------------------------------
+
+--- Schema for table: gaia_verifications ---
+CREATE TABLE gaia_verifications(_id INTEGER PRIMARY KEY AUTOINCREMENT, phone_number TEXT, verification_time INTEGER, gaia_id TEXT NOT NULL,  UNIQUE ( phone_number, gaia_id) ON CONFLICT REPLACE)
+
+--- Data for table: gaia_verifications ---
+(No data in this table)
+--------------------------------------------------
+
+--- Schema for table: signals_events ---
+CREATE TABLE signals_events(_id INTEGER PRIMARY KEY AUTOINCREMENT, subscription_id INTEGER, event_time INTEGER, event_type INTEGER, successful INTEGER, event_proto BLOB)
+
+--- Data for table: signals_events ---
+(No data in this table)
+--------------------------------------------------
+
+--- Schema for table: on_demand_consent_impressions ---
+CREATE TABLE on_demand_consent_impressions(_id INTEGER PRIMARY KEY AUTOINCREMENT, impression_time INTEGER, impression_type INTEGER, calling_package TEXT)
+
+--
+
+--- Data for table: on_demand_consent_v2_impressions ---
+(No data in this table)
+--------------------------------------------------
+
+
+==================== DATABASE: data/com.google.android.gms/databases/reminders.db ====================
+
+Tables found:
+- android_metadata
+- account
+- sqlite_sequence
+- reminders
+- notification
+- operation
+- place_alias
+
+--- Schema for table: account ---
+CREATE TABLE account (_id INTEGER PRIMARY KEY AUTOINCREMENT,account_name TEXT NOT NULL,storage_version TEXT,sync_status TEXT,morning_customized_time INTEGER,afternoon_customized_time INTEGER,evening_customized_time INTEGER,account_state INTEGER,need_sync_snooze_preset INTEGER NOT NULL DEFAULT 1,was_last_sync_error INTEGER NOT NULL DEFAULT 0)
+
+--- Data for table: account ---
+_id	account_name	storage_version	sync_status	morning_customized_time	afternoon_customized_time	evening_customized_time	account_state	need_sync_snooze_preset	was_last_sync_error
+1	liam0403.ac@gmail.com	0	NULL	28800000	46800000	64800000	NULL	0	0
+--------------------------------------------------
+
+--- Schema for table: reminders ---
+CREATE TABLE reminders (_id INTEGER PRIMARY KEY AUTOINCREMENT,account_id INTEGER NOT NULL,reminder_type INTEGER NOT NULL,client_assigned_id TEXT,server_assigned_id INTEGER,client_assigned_thread_id TEXT,task_list INTEGER,title TEXT,created_time_millis INTEGER,archived_time_ms INTEGER,archived INTEGER NOT NULL DEFAULT 0,deleted INTEGER NOT NULL DEFAULT 0,pinned INTEGER NOT NULL DEFAULT 0,snoozed INTEGER NOT NULL DEFAULT 0,snoozed_time_millis INTEGER,location_snoozed_until_ms INTEGER,due_date_year INTEGER,due_date_month INTEGER,due_date_day INTEGER,due_date_hour INTEGER,due_date_minute INTEGER,due_date_second INTEGER,due_date_period INTEGER,due_date_absolute_time_ms INTEGER,due_date_date_range INTEGER,due_date_unspecified_future_time INTEGER,due_date_all_day INTEGER,due_date_millis INTEGER,event_date_year INTEGER,event_date_month INTEGER,event_date_day INTEGER,event_date_hour INTEGER,event_date_minute INTEGER,event_date_second INTEGER,event_date_period INTEGER,event_date_absolute_time_ms INTEGER,event_date_date_range INTEGER,event_date_unspecified_future_time INTEGER,event_date_all_day INTEGER,lat REAL,lng REAL,name TEXT,radius_meters INTEGER,location_type INTEGER,display_address TEXT,address_country TEXT,address_locality TEXT,address_region TEXT,address_street_address TEXT,address_street_number TEXT,address_street_name TEXT,address_postal_code TEXT,address_name TEXT,location_cell_id INTEGER,location_fprint INTEGER,location_alias_id TEXT,location_query TEXT,location_query_type INTEGER,chain_name TEXT,chain_id_cell_id INTEGER,chain_id_fprint INTEGER,category_id TEXT,display_name TEXT,recurrence_id TEXT,recurrence_master INTEGER,recurrence_exceptional INTEGER,recurrence_frequency INTEGER,recurrence_every INTEGER,recurrence_start_year INTEGER,recurrence_start_month INTEGER,recurrence_start_day INTEGER,recurrence_start_hour INTEGER,recurrence_start_minute INTEGER,recurrence_start_second INTEGER,recurrence_start_period INTEGER,recurrence_start_absolute_time_ms INTEGER,recurrence_start_date_range INTEGER,recurrence_start_unspecified_future_time INTEGER,recurrence_start_all_day INTEGER,recurrence_end_year INTEGER,recurrence_end_month INTEGER,recurrence_end_day INTEGER,recurrence_end_hour INTEGER,recurrence_end_minute INTEGER,recurrence_end_second INTEGER,recurrence_end_period INTEGER,recurrence_end_absolute_time_ms INTEGER,recurrence_end_num_occurrences INTEGER,recurrence_end_auto_renew INTEGER,recurrence_end_date_range INTEGER,recurrence_end_unspecified_future_time INTEGER,recurrence_end_all_day INTEGER,recurrence_end_auto_renew_until_year INTEGER,recurrence_end_auto_renew_until_month INTEGER,recurrence_end_auto_renew_until_day INTEGER,recurrence_end_auto_renew_until_hour INTEGER,recurrence_end_auto_renew_until_minute INTEGER,recurrence_end_auto_renew_until_second INTEGER,recurrence_end_auto_renew_until_period INTEGER,recurrence_end_auto_renew_until_absolute_time_ms INTEGER,recurrence_end_auto_renew_until_date_range INTEGER,recurrence_end_auto_renew_until_unspecified_future_time INTEGER,recurrence_end_auto_renew_until_all_day INTEGER,daily_pattern_hour INTEGER,daily_pattern_minute INTEGER,daily_pattern_second INTEGER,daily_pattern_period INTEGER,daily_pattern_all_day INTEGER,weekly_pattern_weekday TEXT,monthly_pattern_month_day TEXT,monthly_pattern_week_day INTEGER,monthly_pattern_week_day_number INTEGER,yearly_pattern_year_month TEXT,yearly_pattern_monthly_pattern_month_day TEXT,yearly_pattern_monthly_pattern_week_day INTEGER,yearly_pattern_monthly_pattern_week_day_number INTEGER,experiment INTEGER,assistance BLOB,extensions BLOB,link_application INTEGER,link_id TEXT,fired_time_millis INTEGER,dirty_sync_bit INTEGER NOT NULL DEFAULT 0,place_types TEXT)
+
+--- Data for table: reminders ---
+(No data in this table)
+--------------------------------------------------
+
+--- Schema for table: notification ---
+CREATE TABLE notification (_id INTEGER PRIMARY KEY AUTOINCREMENT,state INTEGER NOT NULL DEFAULT 0,trigger_time INTEGER,create_time INTEGER,schedule_time INTEGER,fire_time INTEGER,snooze_time INTEGER,dismiss_time INTEGER)
+
+--- Data for table: notification ---
+(No data in this table)
+--------------------------------------------------
+
+--- Schema for table: operation ---
+CREATE TABLE operation (_id INTEGER PRIMARY KEY AUTOINCREMENT,account_id INTEGER NOT NULL,operation_api INTEGER NOT NULL,operation_request BLOB,error_count INTEGER NOT NULL DEFAULT 0)
+
+--- Data for table: operation ---
+(No data in this table)
+--------------------------------------------------
+
+--- Schema for table: place_alias ---
+CREATE TABLE place_alias (_id INTEGER PRIMARY KEY AUTOINCREMENT,account_id INTEGER NOT NULL,alias_id INTEGER,alias_name TEXT NOT NULL,place_id TEXT NOT NULL)
+
+--- Data for table: place_alias ---
+(No data in this table)
+--------------------------------------------------
+
+
+==================== DATABASE: data/com.google.android.gms/databases/metadata.db ====================
+
+Tables found:
+- android_metadata
+- metadata
+- sqlite_sequence
+- manifest_deps
+- pinned_deps
+
+--- Schema for table: metadata ---
+CREATE TABLE metadata(id INTEGER PRIMARY KEY AUTOINCREMENT, family TEXT, width FLOAT DEFAULT 100, weight INTEGER DEFAULT 400, italic INTEGER DEFAULT 0, version INTEGER DEFAULT 1, last_accessed TIMESTAMP DEFAULT CURRENT_TIMESTAMP, UNIQUE (family, width, weight, italic))
+--
+CREATE TABLE pinned_deps(package TEXT, font_id INTEGER, FOREIGN KEY (font_id) REFERENCES metadata(id))
+
+--- Data for table: pinned_deps ---
+(No data in this table)
+--------------------------------------------------
+
+
+==================== DATABASE: data/com.google.android.gms/databases/googlesettings.db ====================
+
+Tables found:
+- android_metadata
+- partner
+- sqlite_sequence
+
+--- Schema for table: partner ---
+CREATE TABLE partner (_id INTEGER PRIMARY KEY AUTOINCREMENT,name TEXT UNIQUE ON CONFLICT REPLACE,value TEXT)
+
+--- Data for table: partner ---
+_id	name	value
+3	network_location_opt_in	1
+5	data_store_version	3
+196	backup_enabled:com.android.calllogbackup	1
+228	use_location_for_services	1
+239	client_id	unknown
+240	search_client_id	ms-unknown
+241	chrome_client_id	ms-unknown
+242	maps_client_id	gmm-unknown
+243	youtube_client_id	mvapp-unknown
+244	market_client_id	am-unknown
+245	voicesearch_client_id	ms-unknown
+246	playtx_client_id	play-ms-unknown
+247	playax_client_id	play-ad-ms-unknown
+248	program_client_id	pg-unknown
+--------------------------------------------------
+
+
+==================== DATABASE: data/com.google.android.gms/databases/cast.db ====================
+

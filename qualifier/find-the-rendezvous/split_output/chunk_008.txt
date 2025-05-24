@@ -1,0 +1,500 @@
+com.google.android.gms.icing.mdd#com.google.android.apps.photos	616991814		com.google.android.gms.autofill	250832000	0	b'\x08\x03\x12\x0c\x15\r\xae\xf6\x93\x0c\x04k\x04\xae\x06\x04'	3
+com.google.android.gms.icing.mdd#com.google.android.dialer	546030284		com.google.android.gms.autofill	250832000	0	b'\x08\x03\x12\x0c\x15\r\xae\xf6\x93\x0c\x04k\x04\xae\x06\x04'	3
+com.google.android.gms.icing.mdd#com.google.android.gm	616991814		com.google.android.gms.autofill	250832000	0	b'\x08\x03\x12\x0c\x15\r\xae\xf6\x93\x0c\x04k\x04\xae\x06\x04'	3
+com.google.android.gms.icing.mdd#com.google.android.googlequicksearchbox	616991814		com.google.android.gms.autofill	250832000	0	b'\x08\x03\x12\x0c\x15\r\xae\xf6\x93\x0c\x04k\x04\xae\x06\x04'	3
+com.google.android.gms.icing.mdd#com.google.android.inputmethod.latin	616991814		com.google.android.gms.autofill	250832000	0	b'\x08\x03\x12\x0c\x15\r\xae\xf6\x93\x0c\x04k\x04\xae\x06\x04'	3
+com.google.android.gms.icing.mdd#com.google.android.tts	546030284		com.google.android.gms.autofill	250832000	0	b'\x08\x03\x12\x0c\x15\r\xae\xf6\x93\x0c\x04k\x04\xae\x06\x04'	3
+com.google.android.platform.autofill	250832000		com.google.android.gms.autofill	250832000	0	b'\x08\x03\x12\x07\x15\x02\xea\xbb\xb7\x14\x06'	3
+com.google.android.gms	212		com.google.android.gms.findmydevice	250832000	0	b"\x08\x03\x12\x08\x15\x01\xdd\x8d\xeb\x0f\xd7'"	3
+com.google.android.apps.pixelmigrate	526684		com.google.android.gms.smartdevice	250832000	0	b"\x08\x03\x12-\r,\xc2\x82\x99\x15\x06\xb5\x04\x066\x06n\x06\xff\x06\x06n\x06'\x06\x00\x06\xf7\x06\x06\x12\x06\x03\x063\x06\x03\x06\x14\x06\x03\x06\x0c\x06\x14\x06\x99\x06\x06"	3
+com.google.android.gms.nearby	250832000		com.google.android.gms.smartdevice	250832000	0	b'\x08\x03\x12?\x15:\xf2\x84\xe0\r\x01\xb7\xd0\xd4$\x01c\x01\xd0&\x03\xdd\x08\x03\xd8\x03\x01\x97\x06\x03\x90\x06\x03R\x03\x00\x03\x00\x03\x00\x03\x00\x03\x00\x03\x00\x03\x00\x03\x13\x03\x13\x03\x18\x03\x00\x03\x00\x03\x00\x03+\x04*\x03o\x03'	3
+com.google.android.gms.smartdevice	250832000		com.google.android.gms.smartdevice	250832000	0	b'\x08\x03\x12\x0c\x15\r\xdc\xb8\xfb\r\x1e\x03[\xad\x06\x03'	3
+com.google.android.libraries.notifications.platform#com.google.android.gm	64551108		com.youtube.mainapp.android	1545868784	1	b'\x08\x03\x12\x08\x15\x01\x94\xe2\xb6\x10\xad\x01'	3
+com.google.android.gms.icing.mdd#com.google.android.inputmethod.latin	616991814		com.google.android.gms.autofill	250832000	1	b'\x08\x03\x12\x0c\x15\r\xae\xf6\x93\x0c\x04k\x04\xae\x06\x04'	3
+com.google.android.gms.icing.mdd#com.google.android.tts	546030284		com.google.android.gms.autofill	250832000	1	b'\x08\x03\x12\x0c\x15\r\xae\xf6\x93\x0c\x04k\x04\xae\x06\x04'	3
+com.google.android.mainline.release	229		com.google.android.gms.playlog.uploader	229	1	b'\x08\x03\x12\n\r\x0f\xff\xb7\x9d(\x04\xdd\x04\x03'	3
+com.google.android.gms.gaia_experiments#com.google.android.gms	212	liam0403.ac@gmail.com	com.google.android.libraries.communications.conference.device#com.google.android.gm	64551108	0	b'\x08\x03\x12\n%\x0f\xc9\xec\xb1(\xe6\xc8\x9a\x06'	3
+com.google.android.libraries.notifications.platform#com.google.android.calendar	2017394391	liam0403.ac@gmail.com	com.youtube.mainapp.android	1545868784	0	b'\x08\x03\x12\x08\x15\x01\x94\xe2\xb6\x10\xad\x01'	3
+com.google.android.libraries.notifications.platform#com.google.android.gm	64551108	liam0403.ac@gmail.com	com.youtube.mainapp.android	1545868784	0	b'\x08\x03\x12\x08\x15\x01\x94\xe2\xb6\x10\xad\x01'	3
+com.google.android.libraries.notifications.platform#com.google.android.youtube	1545868784	liam0403.ac@gmail.com	com.youtube.mainapp.android	1545868784	0	b'\x08\x03\x12\x08\x15\x01\x94\xe2\xb6\x10\xad\x01'	3
+com.google.android.gms	212	liam0403.ac@gmail.com	com.google.android.gms.kids#com.google.android.apps.wellbeing	616487	0	b'\x08\x03\x12\x11\x15\x08\xc1\xac\xeb\x0f\xd5\t\x05\xdc\x05\xaf\x03\x05\xd3\x0f\x05'	3
+com.google.android.gms.auth_account	250832000	liam0403.ac@gmail.com	com.google.android.gms.kids#com.google.android.apps.wellbeing	616487	0	b'\x08\x03\x12\x07\x15\x02\xc3\xfb\x89\x0c\x03'	3
+com.google.android.gms	212	liam0403.ac@gmail.com	com.google.android.apps.photos	48965350	0	b'\x08\x03\x12\x07\x15\x02\xca\xdd\xec\x0f\x03'	3
+com.google.android.gms.backup	250832000	liam0403.ac@gmail.com	com.google.android.apps.photos	48965350	0	b'\x08\x03\x12\x07\x15\x02\xe8\xd3\xfa\x0b\x03'	3
+com.google.android.apps.pixelmigrate	526684	liam0403.ac@gmail.com	com.google.android.apps.pixelmigrate	526684	0	b"\x08\x03\x12-\r,\xc2\x82\x99\x15\x06\xb5\x04\x066\x06n\x06\xff\x06\x06n\x06'\x06\x00\x06\xf7\x06\x06\x12\x06\x03\x063\x06\x03\x06\x14\x06\x03\x06\x0c\x06\x14\x06\x99\x06\x06"	3
+com.google.android.gms.nearby	250832000	liam0403.ac@gmail.com	com.google.android.apps.pixelmigrate	526684	0	b'\x08\x03\x12?\x15:\xf2\x84\xe0\r\x01\xb7\xd0\xd4$\x01c\x01\xd0&\x03\xdd\x08\x03\xd8\x03\x01\x97\x06\x03\x90\x06\x03R\x03\x00\x03\x00\x03\x00\x03\x00\x03\x00\x03\x00\x03\x00\x03\x13\x03\x13\x03\x18\x03\x00\x03\x00\x03\x00\x03+\x04*\x03o\x03'	3
+com.google.android.gms.smartdevice	250832000	liam0403.ac@gmail.com	com.google.android.apps.pixelmigrate	526684	0	b'\x08\x03\x12\x0c\x15\r\xdc\xb8\xfb\r\x1e\x03[\xad\x06\x03'	3
+com.google.android.apps.pixelmigrate	526684	liam0403.ac@gmail.com	restore_android.device#com.google.android.apps.restore	526684	0	b"\x08\x03\x12-\r,\xc2\x82\x99\x15\x06\xb5\x04\x066\x06n\x06\xff\x06\x06n\x06'\x06\x00\x06\xf7\x06\x06\x12\x06\x03\x063\x06\x03\x06\x14\x06\x03\x06\x0c\x06\x14\x06\x99\x06\x06"	3
+com.google.android.gms.smartdevice	250832000	liam0403.ac@gmail.com	restore_android.device#com.google.android.apps.restore	526684	0	b'\x08\x03\x12\x0c\x15\r\xdc\xb8\xfb\r\x1e\x03[\xad\x06\x03'	3
+com.google.android.platform.aicore	250832000	liam0403.ac@gmail.com	com.google.android.apps.messaging#com.google.android.apps.messaging	235003880	0	b'\x08\x03\x12\r\r\x03\xc4\xd9\x876\x15\x02\xc6\xb5\xd47\x06'	3
+com.google.android.location	250832000	liam0403.ac@gmail.com	com.google.android.googlequicksearchbox	301351415	0	b'\x08\x03\x12\x07\x15\x02\xec\x94\xa7\x1f\x03'	3
+com.google.android.gms	212	liam0403.ac@gmail.com	com.google.android.platform.aicore	250832000	0	b'\x08\x03\x12\x07\x15\x02\x92\xf5\xec\x0f\x03'	3
+com.google.android.gms.cast	250832000	liam0403.ac@gmail.com	com.google.android.platform.tethering	350820300	0	b'\x08\x03\x12\x07\x15\x02\xf6\x80\x9f\x0ca'	3
+com.google.android.gms	212	liam0403.ac@gmail.com	com.google.android.gms.semanticlocation	250832000	0	b'\x08\x03\x12\x07\x15\x02\xe4\xce\xee\x0f\x04'	3
+com.google.android.gms	212		com.google.android.gms.backup	250832000	0	b'\x08\x03\x12\x07\x15\x02\xca\xdd\xec\x0f\x03'	3
+com.google.android.gms	212	liam0403.ac@gmail.com	com.google.android.gms.backup	250832000	0	b'\x08\x03\x12\x07\x15\x02\xca\xdd\xec\x0f\x03'	3
+com.google.android.gms	212	liam0403.ac@gmail.com	com.google.android.location	250832000	0	b"\x08\x03\x12\x0b\x15\x0e\xcc\xc6\xec\x0f\x03\x8eN\xd7'"	3
+com.google.android.gms	212	liam0403.ac@gmail.com	com.google.android.gms.nearby	250832000	0	b'\x08\x03\x12\x07\x15\x02\xcc\xc6\xec\x0f\x03'	3
+com.google.android.apps.walletnfcrel#com.google.android.gms	250832038		com.google.android.gms.tapandpay	250832000	0	b'\x08\x03\x12\x07\x15\x02\xa1\xa4\xf67\x04'	3
+com.google.android.apps.walletnfcrel#com.google.android.gms	250832038	liam0403.ac@gmail.com	com.google.android.gms.tapandpay	250832000	0	b'\x08\x03\x12\x07\x15\x02\xa1\xa4\xf67\x04'	3
+com.google.android.gms	212	liam0403.ac@gmail.com	com.google.android.gms.personalsafety	242506000	0	b"\x08\x03\x12\x0b\x15\x0e\xdd\x8d\xeb\x0f\xd7'\xc1\x0b\x03"	3
+com.google.android.gms	212	liam0403.ac@gmail.com	com.google.android.gms.tflite	243930801	0	b'\x08\x03\x12\x07\x15\x02\xf3\x84\xeb\x0f\x04'	3
+com.google.android.gms.ocr	250832000	liam0403.ac@gmail.com	com.google.android.gms.wallet	250832000	0	b'\x08\x03\x12\x07\x15\x02\x92\xfa\xc2\x0e\x03'	3
+com.google.android.gms.wallet_dynamite#com.google.android.gms	250832000	liam0403.ac@gmail.com	com.google.android.gms.wallet	250832000	0	b'\x08\x03\x12\n\x15\x0f\xdd\x96\x93%\xe1\xf7\xb2\t'	3
+com.google.android.gms	212	liam0403.ac@gmail.com	com.google.android.gms.gcm	1400	0	b'\x08\x03\x12\x07\x15\x02\xcc\xc6\xec\x0f\x03'	3
+com.google.android.apps.walletnfcrel#com.google.android.gms	250832038		com.google.android.gms.pay	250832000	0	b'\x08\x03\x12\x07\x15\x02\xa1\xa4\xf67\x04'	3
+com.google.android.apps.walletnfcrel#com.google.android.gms	250832038	liam0403.ac@gmail.com	com.google.android.gms.pay	250832000	0	b'\x08\x03\x12\x07\x15\x02\xa1\xa4\xf67\x04'	3
+com.google.android.apps.search.transcription.device#com.google.android.googlequicksearchbox	301351415	liam0403.ac@gmail.com	com.google.android.gms	212	0	b'\x08\x03\x12\x07\x15\x02\xb1\xad\xde7\x06'	3
+com.google.android.apps.search.transcription.device#com.google.android.tts	210476567	liam0403.ac@gmail.com	com.google.android.gms	212	0	b'\x08\x03\x12\x07\x15\x02\xb1\xad\xde7\x06'	3
+com.google.android.gms	212	liam0403.ac@gmail.com	com.google.android.gms	212	0	b"\x08\x03\x12\x14\r\x00\xdb\xef\xf67\xc6\x97\x14\x15\x0e\xdd\x8d\xeb\x0f\xd7'\xc1\x0b\x03"	3
+com.google.android.gms.wallet_dynamite#com.google.android.gms	250832000	liam0403.ac@gmail.com	com.google.android.gms	212	0	b'\x08\x03\x12\n\x15\x0f\xdd\x96\x93%\xe1\xf7\xb2\t'	3
+com.google.android.gms.icing.mdd	722788935	liam0403.ac@gmail.com	com.google.android.gms.autofill	250832000	0	b'\x08\x03\x12\x0c\x15\r\xae\xf6\x93\x0c\x04k\x04\xae\x06\x04'	3
+com.google.android.gms.icing.mdd#com.google.android.apps.messaging	616991814	liam0403.ac@gmail.com	com.google.android.gms.autofill	250832000	0	b'\x08\x03\x12\x0c\x15\r\xae\xf6\x93\x0c\x04k\x04\xae\x06\x04'	3
+com.google.android.gms.icing.mdd#com.google.android.apps.photos	616991814	liam0403.ac@gmail.com	com.google.android.gms.autofill	250832000	0	b'\x08\x03\x12\x0c\x15\r\xae\xf6\x93\x0c\x04k\x04\xae\x06\x04'	3
+com.google.android.gms.icing.mdd#com.google.android.dialer	546030284	liam0403.ac@gmail.com	com.google.android.gms.autofill	250832000	0	b'\x08\x03\x12\x0c\x15\r\xae\xf6\x93\x0c\x04k\x04\xae\x06\x04'	3
+com.google.android.gms.icing.mdd#com.google.android.gm	616991814	liam0403.ac@gmail.com	com.google.android.gms.autofill	250832000	0	b'\x08\x03\x12\x0c\x15\r\xae\xf6\x93\x0c\x04k\x04\xae\x06\x04'	3
+com.google.android.gms.icing.mdd#com.google.android.gms	722788935	liam0403.ac@gmail.com	com.google.android.gms.autofill	250832000	0	b'\x08\x03\x12\x0c\x15\r\xae\xf6\x93\x0c\x04k\x04\xae\x06\x04'	3
+com.google.android.gms.icing.mdd#com.google.android.googlequicksearchbox	616991814	liam0403.ac@gmail.com	com.google.android.gms.autofill	250832000	0	b'\x08\x03\x12\x0c\x15\r\xae\xf6\x93\x0c\x04k\x04\xae\x06\x04'	3
+com.google.android.gms.icing.mdd#com.google.android.inputmethod.latin	616991814	liam0403.ac@gmail.com	com.google.android.gms.autofill	250832000	0	b'\x08\x03\x12\x0c\x15\r\xae\xf6\x93\x0c\x04k\x04\xae\x06\x04'	3
+com.google.android.gms.icing.mdd#com.google.android.tts	546030284	liam0403.ac@gmail.com	com.google.android.gms.autofill	250832000	0	b'\x08\x03\x12\x0c\x15\r\xae\xf6\x93\x0c\x04k\x04\xae\x06\x04'	3
+com.google.android.platform.autofill	250832000	liam0403.ac@gmail.com	com.google.android.gms.autofill	250832000	0	b'\x08\x03\x12\x07\x15\x02\xea\xbb\xb7\x14\x06'	3
+com.google.android.gms	212	liam0403.ac@gmail.com	com.google.android.gms.findmydevice	250832000	0	b"\x08\x03\x12\x08\x15\x01\xdd\x8d\xeb\x0f\xd7'"	3
+com.google.android.apps.search.transcription.device#com.google.android.googlequicksearchbox	301351415		com.google.android.gms.playlog.uploader	229	0	b'\x08\x03\x12\x07\x15\x02\xb1\xad\xde7\x06'	3
+com.google.android.apps.search.transcription.device#com.google.android.tts	210476567		com.google.android.gms.playlog.uploader	229	0	b'\x08\x03\x12\x07\x15\x02\xb1\xad\xde7\x06'	3
+com.google.android.gms	212		com.google.android.gms.playlog.uploader	229	0	b"\x08\x03\x12\x10\x15\t\x8c\xc6\xed\x0f\xd9\x15\xe8\xb1\x06\xd7'\xc1\x0b\x03"	3
+com.google.android.libraries.performance.primes#com.google.android.gms	250832038		com.google.android.gms.playlog.uploader	229	0	b'\x08\x03\x12\x07\x15\x02\x97\xc3\xfc7\x06'	3
+com.google.android.mainline.release	229		com.google.android.gms.playlog.uploader	229	0	b'\x08\x03\x12\n\r\x0f\xff\xb7\x9d(\x04\xdd\x04\x03'	3
+com.google.android.metrics	223		com.google.android.gms.playlog.uploader	229	0	b'\x08\x03\x12\x07\x15\x02\xc2\xf7\xe7\x0e\x03'	3
+com.google.android.apps.search.transcription.device#com.google.android.googlequicksearchbox	301351415	liam0403.ac@gmail.com	com.google.android.gms.playlog.uploader	229	0	b'\x08\x03\x12\x07\x15\x02\xb1\xad\xde7\x06'	3
+com.google.android.apps.search.transcription.device#com.google.android.tts	210476567	liam0403.ac@gmail.com	com.google.android.gms.playlog.uploader	229	0	b'\x08\x03\x12\x07\x15\x02\xb1\xad\xde7\x06'	3
+com.google.android.gms	212	liam0403.ac@gmail.com	com.google.android.gms.playlog.uploader	229	0	b"\x08\x03\x12\x10\x15\t\x8c\xc6\xed\x0f\xd9\x15\xe8\xb1\x06\xd7'\xc1\x0b\x03"	3
+com.google.android.mainline.release	229	liam0403.ac@gmail.com	com.google.android.gms.playlog.uploader	229	0	b'\x08\x03\x12\n\r\x0f\xff\xb7\x9d(\x04\xdd\x04\x03'	3
+com.google.android.metrics	223	liam0403.ac@gmail.com	com.google.android.gms.playlog.uploader	229	0	b'\x08\x03\x12\x07\x15\x02\xc2\xf7\xe7\x0e\x03'	3
+com.google.android.apps.pixelmigrate	526684	liam0403.ac@gmail.com	com.google.android.gms.smartdevice	250832000	0	b"\x08\x03\x12-\r,\xc2\x82\x99\x15\x06\xb5\x04\x066\x06n\x06\xff\x06\x06n\x06'\x06\x00\x06\xf7\x06\x06\x12\x06\x03\x063\x06\x03\x06\x14\x06\x03\x06\x0c\x06\x14\x06\x99\x06\x06"	3
+com.google.android.gms.nearby	250832000	liam0403.ac@gmail.com	com.google.android.gms.smartdevice	250832000	0	b'\x08\x03\x12?\x15:\xf2\x84\xe0\r\x01\xb7\xd0\xd4$\x01c\x01\xd0&\x03\xdd\x08\x03\xd8\x03\x01\x97\x06\x03\x90\x06\x03R\x03\x00\x03\x00\x03\x00\x03\x00\x03\x00\x03\x00\x03\x00\x03\x13\x03\x13\x03\x18\x03\x00\x03\x00\x03\x00\x03+\x04*\x03o\x03'	3
+com.google.android.gms.smartdevice	250832000	liam0403.ac@gmail.com	com.google.android.gms.smartdevice	250832000	0	b'\x08\x03\x12\x0c\x15\r\xdc\xb8\xfb\r\x1e\x03[\xad\x06\x03'	3
+com.google.android.gms	212		com.google.android.gms.phenotype	229	0	b"\x08\x03\x12\x13\x15\x16\xe4\xce\xee\x0f\x04\xa4p\xd9\x15\xe8\xb1\x06\xd7'\xc1\x0b\x03"	3
+com.google.android.gms.settings.platform	250832000		com.google.android.gms.phenotype	229	0	b'\x08\x03\x12\x06\x15\x03\x9e\xb9\xa6\r'	3
+com.google.android.gms	212	liam0403.ac@gmail.com	com.google.android.gms.phenotype	229	0	b"\x08\x03\x12\x13\x15\x16\xe4\xce\xee\x0f\x04\xa4p\xd9\x15\xe8\xb1\x06\xd7'\xc1\x0b\x03"	3
+com.google.android.gms.settings.platform	250832000	liam0403.ac@gmail.com	com.google.android.gms.phenotype	229	0	b'\x08\x03\x12\x06\x15\x03\x9e\xb9\xa6\r'	3
+com.google.android.gms	212		com.google.android.gms.vision	250832000	0	b'\x08\x03\x12\x08\x15\x01\xd7\x8b\xed\x0f\xd2\n'	3
+com.google.android.gms	212	liam0403.ac@gmail.com	com.google.android.gms.vision	250832000	0	b'\x08\x03\x12\x08\x15\x01\xd7\x8b\xed\x0f\xd2\n'	3
+com.google.android.gms	212		com.google.android.gms.kids#com.google.android.gms	250832038	0	b'\x08\x03\x12\x11\x15\x08\xc1\xac\xeb\x0f\xd5\t\x05\xdc\x05\xaf\x03\x05\xd3\x0f\x05'	3
+com.google.android.gms.auth_account	250832000		com.google.android.gms.kids#com.google.android.gms	250832038	0	b'\x08\x03\x12\x07\x15\x02\xc3\xfb\x89\x0c\x03'	3
+com.google.android.gms	212	liam0403.ac@gmail.com	com.google.android.gms.kids#com.google.android.gms	250832038	0	b'\x08\x03\x12\x11\x15\x08\xc1\xac\xeb\x0f\xd5\t\x05\xdc\x05\xaf\x03\x05\xd3\x0f\x05'	3
+com.google.android.gms.auth_account	250832000	liam0403.ac@gmail.com	com.google.android.gms.kids#com.google.android.gms	250832038	0	b'\x08\x03\x12\x07\x15\x02\xc3\xfb\x89\x0c\x03'	3
+com.google.android.mainline.release	229		com.google.android.gms.playlog.uploader	229	1	b'\x08\x03\x12\n\r\x0f\xff\xb7\x9d(\x04\xdd\x04\x03'	3
+com.google.android.gms.wallet_dynamite#com.google.android.gms	250832000		com.google.android.gms	212	1	b'\x08\x03\x12\n\x15\x0f\xdd\x96\x93%\xe1\xf7\xb2\t'	3
+com.google.android.gms.wallet_dynamite#com.google.android.gms	250832000		com.google.android.gms.wallet	250832000	1	b'\x08\x03\x12\n\x15\x0f\xdd\x96\x93%\xe1\xf7\xb2\t'	3
+com.google.android.gms.backup	250832000		com.google.android.apps.photos	48965350	1	b'\x08\x03\x12\x07\x15\x02\xe8\xd3\xfa\x0b\x03'	3
+com.google.android.gms.auth_account	250832000		com.google.android.gms.kids#com.google.android.apps.wellbeing	616487	1	b'\x08\x03\x12\x07\x15\x02\xc3\xfb\x89\x0c\x03'	3
+com.google.android.gms.auth_account	250832000		com.google.android.gms.kids#com.google.android.gms	250832038	1	b'\x08\x03\x12\x07\x15\x02\xc3\xfb\x89\x0c\x03'	3
+com.google.android.gms.icing.mdd	722788935		com.google.android.gms.autofill	250832000	1	b'\x08\x03\x12\x0c\x15\r\xae\xf6\x93\x0c\x04k\x04\xae\x06\x04'	3
+com.google.android.gms.ocr	250832000		com.google.android.gms.wallet	250832000	1	b'\x08\x03\x12\x07\x15\x02\x92\xfa\xc2\x0e\x03'	3
+com.google.android.gms	212		com.google.android.apps.photos	48965350	1	b'\x08\x03\x12\x07\x15\x02\xca\xdd\xec\x0f\x03'	3
+com.google.android.gms	212		com.google.android.gms	212	1	b"\x08\x03\x12\x14\r\x00\xdb\xef\xf67\xc6\x97\x14\x15\x0e\xdd\x8d\xeb\x0f\xd7'\xc1\x0b\x03"	3
+com.google.android.gms	212		com.google.android.gms.backup	250832000	1	b'\x08\x03\x12\x07\x15\x02\xca\xdd\xec\x0f\x03'	3
+com.google.android.gms	212		com.google.android.gms.findmydevice	250832000	1	b"\x08\x03\x12\x08\x15\x01\xdd\x8d\xeb\x0f\xd7'"	3
+com.google.android.gms	212		com.google.android.gms.gcm	1400	1	b'\x08\x03\x12\x07\x15\x02\xcc\xc6\xec\x0f\x03'	3
+com.google.android.gms	212		com.google.android.gms.kids#com.google.android.apps.wellbeing	616487	1	b'\x08\x03\x12\x11\x15\x08\xc1\xac\xeb\x0f\xd5\t\x05\xdc\x05\xaf\x03\x05\xd3\x0f\x05'	3
+com.google.android.gms	212		com.google.android.gms.kids#com.google.android.gms	250832038	1	b'\x08\x03\x12\x11\x15\x08\xc1\xac\xeb\x0f\xd5\t\x05\xdc\x05\xaf\x03\x05\xd3\x0f\x05'	3
+com.google.android.gms	212		com.google.android.gms.nearby	250832000	1	b'\x08\x03\x12\x07\x15\x02\xcc\xc6\xec\x0f\x03'	3
+com.google.android.gms	212		com.google.android.gms.personalsafety	242506000	1	b"\x08\x03\x12\x0b\x15\x0e\xdd\x8d\xeb\x0f\xd7'\xc1\x0b\x03"	3
+com.google.android.gms	212		com.google.android.gms.phenotype	229	1	b"\x08\x03\x12\x13\x15\x16\xe4\xce\xee\x0f\x04\xa4p\xd9\x15\xe8\xb1\x06\xd7'\xc1\x0b\x03"	3
+com.google.android.gms	212		com.google.android.gms.playlog.uploader	229	1	b"\x08\x03\x12\x10\x15\t\x8c\xc6\xed\x0f\xd9\x15\xe8\xb1\x06\xd7'\xc1\x0b\x03"	3
+com.google.android.gms	212		com.google.android.gms.semanticlocation	250832000	1	b'\x08\x03\x12\x07\x15\x02\xe4\xce\xee\x0f\x04'	3
+com.google.android.gms	212		com.google.android.gms.tflite	243930801	1	b'\x08\x03\x12\x07\x15\x02\xf3\x84\xeb\x0f\x04'	3
+com.google.android.gms	212		com.google.android.gms.vision	250832000	1	b'\x08\x03\x12\x08\x15\x01\xd7\x8b\xed\x0f\xd2\n'	3
+com.google.android.gms	212		com.google.android.location	250832000	1	b"\x08\x03\x12\x0b\x15\x0e\xcc\xc6\xec\x0f\x03\x8eN\xd7'"	3
+com.google.android.gms	212		com.google.android.platform.aicore	250832000	1	b'\x08\x03\x12\x07\x15\x02\x92\xf5\xec\x0f\x03'	3
+com.google.android.gms.smartdevice	250832000		com.google.android.apps.pixelmigrate	526684	1	b'\x08\x03\x12\x0c\x15\r\xdc\xb8\xfb\r\x1e\x03[\xad\x06\x03'	3
+com.google.android.gms.smartdevice	250832000		com.google.android.gms.smartdevice	250832000	1	b'\x08\x03\x12\x0c\x15\r\xdc\xb8\xfb\r\x1e\x03[\xad\x06\x03'	3
+com.google.android.gms.smartdevice	250832000		restore_android.device#com.google.android.apps.restore	526684	1	b'\x08\x03\x12\x0c\x15\r\xdc\xb8\xfb\r\x1e\x03[\xad\x06\x03'	3
+com.google.android.location	250832000		com.google.android.apps.maps	1067529190	0	b'\x08\x03\x12\x07\x15\x02\xd0\x91\xa7\x1f\x03'	3
+com.google.android.location	250832000	liam0403.ac@gmail.com	com.google.android.apps.maps	1067529190	0	b'\x08\x03\x12\x07\x15\x02\xd0\x91\xa7\x1f\x03'	3
+com.google.android.googlequicksearchbox	301351415	liam0403.ac@gmail.com	com.google.android.projection.gearhead	12542030	1	b'\x08\x03\x12\n%\x0f\xfe\xa9\xa4\x11\x05\xb1X\x05'	3
+com.google.android.platform.lmkd_native	250832000		com.google.android.westworld	1	0	b'\x08\x03\x12\x07\x15\x02\xd7\x97\xf3\x11\x06'	3
+com.google.android.platform.statsd_native	350820260		com.google.android.westworld	1	0	b'\x08\x03\x12\x06\x15\x03\xcb\xec\xa0\x11'	3
+com.google.android.platform.statsd_native_boot	350820260		com.google.android.westworld	1	0	b'\x08\x03\x12\x06\x15\x03\xdc\xa3\xad\x11'	3
+com.google.android.platform.lmkd_native	250832000	liam0403.ac@gmail.com	com.google.android.westworld	1	0	b'\x08\x03\x12\x07\x15\x02\xd7\x97\xf3\x11\x06'	3
+com.google.android.platform.statsd_native	350820260	liam0403.ac@gmail.com	com.google.android.westworld	1	0	b'\x08\x03\x12\x06\x15\x03\xcb\xec\xa0\x11'	3
+com.google.android.platform.statsd_native_boot	350820260	liam0403.ac@gmail.com	com.google.android.westworld	1	0	b'\x08\x03\x12\x06\x15\x03\xdc\xa3\xad\x11'	3
+com.google.android.location	250832000		com.google.android.apps.maps	1067529190	1	b'\x08\x03\x12\x07\x15\x02\xd0\x91\xa7\x1f\x03'	3
+com.google.android.location	250832000		com.google.android.googlequicksearchbox	301351415	1	b'\x08\x03\x12\x07\x15\x02\xec\x94\xa7\x1f\x03'	3
+com.google.android.libraries.search.googleapp.device#com.google.android.googlequicksearchbox	301351415		com.google.android.libraries.search.rendering.xuikit.device#com.android.chrome	636771938	1	b'\x08\x03\x12\x16\x15\x13\xa3\xb9\x88%\x06\xc2\xc1\x8e\x0c\x06\xf4\xe6\x92\x05\x06\xd7\xcc\xaf\x06\x06'	3
+com.google.android.libraries.search.googleapp.device#com.google.android.googlequicksearchbox	301351415		com.google.android.libraries.search.rendering.xuikit.device#com.google.android.apps.maps	1067529190	1	b'\x08\x03\x12\x16\x15\x13\xa3\xb9\x88%\x06\xc2\xc1\x8e\x0c\x06\xf4\xe6\x92\x05\x06\xd7\xcc\xaf\x06\x06'	3
+com.google.android.libraries.search.googleapp.device#com.google.android.googlequicksearchbox	301351415		com.google.android.libraries.search.rendering.xuikit.device#com.google.android.apps.messaging	235003880	1	b'\x08\x03\x12\x16\x15\x13\xa3\xb9\x88%\x06\xc2\xc1\x8e\x0c\x06\xf4\xe6\x92\x05\x06\xd7\xcc\xaf\x06\x06'	3
+com.google.android.libraries.search.googleapp.device#com.google.android.googlequicksearchbox	301351415		com.google.android.libraries.search.rendering.xuikit.device#com.google.android.googlequicksearchbox	301351415	1	b'\x08\x03\x12\x16\x15\x13\xa3\xb9\x88%\x06\xc2\xc1\x8e\x0c\x06\xf4\xe6\x92\x05\x06\xd7\xcc\xaf\x06\x06'	3
+com.google.android.apps.search.transcription.device#com.google.android.googlequicksearchbox	301351415		com.google.android.gms	212	1	b'\x08\x03\x12\x07\x15\x02\xb1\xad\xde7\x06'	3
+com.google.android.apps.search.transcription.device#com.google.android.googlequicksearchbox	301351415		com.google.android.gms.playlog.uploader	229	1	b'\x08\x03\x12\x07\x15\x02\xb1\xad\xde7\x06'	3
+com.google.android.gms.icing.mdd#com.google.android.googlequicksearchbox	616991814		com.google.android.gms.autofill	250832000	1	b'\x08\x03\x12\x0c\x15\r\xae\xf6\x93\x0c\x04k\x04\xae\x06\x04'	3
+com.google.android.metrics	223		com.google.android.gms.playlog.uploader	229	1	b'\x08\x03\x12\x07\x15\x02\xc2\xf7\xe7\x0e\x03'	3
+com.google.android.metrics	223		com.google.android.gms.tron.metrics	230	1	b'\x08\x03\x12\x07\x15\x02\xc2\xf7\xe7\x0e\x03'	3
+... (and more rows, limited to 200 for brevity)
+--------------------------------------------------
+
+--- Schema for table: ChangeCounts ---
+CREATE TABLE ChangeCounts(
+    packageName TEXT NOT NULL PRIMARY KEY,
+--
+com.google.android.platform.captive_portal_login	3
+com.google.android.platform.bluetooth_native	5
+com.google.android.platform.tv_hdr_output_control	5
+com.google.android.platform.cellular_security	5
+com.google.android.platform.bluetooth	11
+com.google.android.platform.system_scheduler	5
+com.google.android.platform.latency_tracker	10
+com.google.android.platform.battery_saver	5
+com.google.android.platform.constrain_display_apis	5
+com.google.android.platform.vpn	5
+com.google.android.platform.backup_and_restore	5
+com.google.android.platform.vendor_system_native	5
+com.google.android.platform.nnapi_native	5
+com.google.android.platform.tethering	5
+com.google.android.platform.device_policy_manager	5
+com.google.android.platform.location	5
+com.google.android.platform.logcat_manager	5
+com.google.android.platform.growth	5
+com.google.android.platform.wallpaper_content	5
+com.google.android.platform.rotation_resolver	5
+com.google.android.googlequicksearchbox	16
+com.google.android.partnersetup#com.google.android.partnersetup	2
+com.google.android.libraries.consentverifier#com.google.android.apps.wellbeing	12
+com.google.android.gms.esim	6
+com.google.android.gms.playintegrityautoprotect#com.google.android.gms	4
+com.google.android.gms.wallet_dynamite#com.google.android.gms	4
+com.google.android.gms.semanticlocation	14
+com.google.android.gms.time#com.google.android.gms	4
+com.google.android.gms.auth_api_phone	4
+com.google.android.gms.auth_api_proxy	4
+com.google.android.gms.reminders	2
+com.google.android.client_error_logging	2
+com.google.android.gms.romanesco	4
+com.google.android.gms.cast_dynamite#com.google.android.gms	4
+com.google.android.gms.platformconfigurator	4
+com.google.android.gms.accountsettings	4
+com.google.android.gms.backup	17
+com.google.android.gms.blindauth#com.google.android.gms	4
+com.google.android.gms.geotimezone	2
+com.google.android.libraries.consentverifier#com.google.android.gms	13
+com.google.android.gms.auth_account	10
+com.google.android.gms.mlbenchmark#com.google.android.gms	4
+com.google.android.gms.family	4
+com.google.android.gms.auth.blockstore	10
+com.google.android.location	16
+com.google.android.gms.growth	10
+com.google.android.gms.contactkeys#com.google.android.gms	4
+com.google.android.gms.notifications	4
+com.google.android.gms.auth_account_auto#com.google.android.gms	4
+com.google.android.gms.trustagent.activeunlock.common#com.google.android.gms	4
+com.google.android.gms.nearby	12
+com.google.android.gms.tapandpay	16
+com.google.android.gms.places	2
+com.google.android.gms.personalsafety	4
+com.google.android.gms.nnapi.drivermanager	4
+com.google.android.gms.signin	4
+com.google.android.gms.auth.proximity	10
+com.google.android.gms.update	4
+com.google.android.gms.auth_authzen	4
+com.google.android.gms.vision	8
+com.google.android.gms.wallet	15
+com.google.android.gms.tron.metrics	8
+com.google.android.libraries.surveys#com.google.android.gms	4
+com.google.android.gms.wearable	7
+com.google.android.gms.phonesky_recovery	2
+com.google.android.gms.icing.mdd	13
+com.google.android.gms.icing.mdh	2
+com.google.android.gms.presencemanager	4
+--
+9	com.google.android.gms	com.google.android.gms.common.config.PhenotypeCheckinService	phenotype_checkin	1741671207671	8640000	86400000	0	0	0	0	NULL	{"maximum_backoff_seconds":{"3600":0},"initial_backoff_seconds":{"30":0},"retry_policy":{"0":0}}	1	-1	NULL	16	250832000	NULL	NULL	NULL	NULL	1	NULL	0	1
+11	com.google.android.gms	com.google.android.gms.ads.social.GcmSchedulerWakeupService	ads.social.doritos	1741671205753	1800000	43200000	0	0	0	0	NULL	{"maximum_backoff_seconds":{"3600":0},"initial_backoff_seconds":{"30":0},"retry_policy":{"0":0}}	1	-1	NULL	16	250832000	NULL	NULL	NULL	NULL	0	NULL	0	1
+14	com.google.android.gms	com.google.android.gms.clearcut.uploader.QosUploaderService	qos_default_periodic	1741670213683	3540000	3600000	0	0	0	0	NULL	{"maximum_backoff_seconds":{"3600":0},"initial_backoff_seconds":{"30":0},"retry_policy":{"0":0}}	1	-1	NULL	16	242335000	NULL	NULL	NULL	1	0	NULL	0	1
+15	com.google.android.gms	com.google.android.gms.clearcut.uploader.QosUploaderService	qos_unmetered_periodic	1741671201798	3540000	3600000	0	0	1	0	NULL	{"maximum_backoff_seconds":{"3600":0},"initial_backoff_seconds":{"30":0},"retry_policy":{"0":0}}	1	-1	NULL	16	250832000	NULL	NULL	NULL	1	0	NULL	0	1
+22	com.google.android.gms	com.google.android.gms.gcm.HeartbeatAlarm$ConnectionInfoPersistService	PersistConnectionInfos	1741670213685	3600000	21600000	0	0	0	0	NULL	{"maximum_backoff_seconds":{"3600":0},"initial_backoff_seconds":{"30":0},"retry_policy":{"0":0}}	1	-1	NULL	16	242335000	NULL	NULL	1	1	0	NULL	0	1
+24	com.google.android.gms	com.google.android.gms.autofill.events.AutofillGcmTaskService	CommonUsernamesFetchPeriodic	1741670214552	172800000	172800000	0	0	0	1	NULL	{"maximum_backoff_seconds":{"3600":0},"initial_backoff_seconds":{"30":0},"retry_policy":{"0":0}}	1	-1	NULL	16	242335000	NULL	NULL	1	NULL	1	NULL	0	1
+25	com.google.android.gms	com.google.android.gms.autofill.events.AutofillGcmTaskService	PredictionDataSync	1741670214644	162000000	172800000	0	0	0	1	NULL	{"maximum_backoff_seconds":{"3600":0},"initial_backoff_seconds":{"30":0},"retry_policy":{"0":0}}	1	-1	NULL	16	242335000	NULL	NULL	1	NULL	1	NULL	0	1
+26	com.google.android.gms	com.google.android.gms.chimera.container.ConfigService	ChimeraConfigService	1741670515777	21600000	43201000	0	0	0	0	{"allowRetry":{"true":3},"reason":{"2":0}}	{"maximum_backoff_seconds":{"3600":0},"initial_backoff_seconds":{"30":0},"retry_policy":{"0":0}}	1	-1	NULL	16	250832000	NULL	NULL	NULL	NULL	0	1	0	1
+28	com.google.android.gms	com.google.android.gms.autofill.events.AutofillGcmTaskService	PasswordCreationTimeUpdatePeriodic	1741670214784	86400000	86400000	0	0	0	1	NULL	{"maximum_backoff_seconds":{"3600":0},"initial_backoff_seconds":{"30":0},"retry_policy":{"0":0}}	1	-1	NULL	16	242335000	NULL	NULL	1	NULL	1	NULL	0	1
+29	com.google.android.gms	com.google.android.gms.autofill.events.AutofillGcmTaskService	FaviconFetchPeriodic	1741670214790	172800000	172800000	0	0	0	1	NULL	{"maximum_backoff_seconds":{"3600":0},"initial_backoff_seconds":{"30":0},"retry_policy":{"0":0}}	1	-1	NULL	16	242335000	NULL	NULL	1	NULL	1	NULL	0	1
+30	com.google.android.gms	com.google.android.gms.autofill.events.AutofillGcmTaskService	SettingsSyncPeriodic	1741670214817	172800000	172800000	0	0	0	1	NULL	{"maximum_backoff_seconds":{"3600":0},"initial_backoff_seconds":{"30":0},"retry_policy":{"0":0}}	1	-1	NULL	16	242335000	NULL	NULL	1	NULL	1	NULL	0	1
+31	com.google.android.gms	com.google.android.gms.autofill.events.AutofillGcmTaskService	FileUploadPeriodic	1741670214819	86400000	86400000	0	0	0	1	NULL	{"maximum_backoff_seconds":{"3600":0},"initial_backoff_seconds":{"30":0},"retry_policy":{"0":0}}	1	-1	NULL	16	242335000	NULL	NULL	1	NULL	1	NULL	0	1
+32	com.google.android.gms	com.google.android.gms.checkin.CheckinService	PeriodicTaskTag	1741670224569	10800000	39783000	0	0	0	0	NULL	{"maximum_backoff_seconds":{"3600":0},"initial_backoff_seconds":{"30":0},"retry_policy":{"0":0}}	1	-1	NULL	16	242335000	NULL	NULL	NULL	NULL	0	NULL	0	1
+35	com.google.android.gms	.cobalt.service.ObservationGenerationTask	ObservationGenerationTask.Periodic	1741670215397	77760000	86400000	0	0	2	0	NULL	{"maximum_backoff_seconds":{"3600":0},"initial_backoff_seconds":{"30":0},"retry_policy":{"0":0}}	1	-1	NULL	16	242335000	NULL	NULL	NULL	1	0	1	1	1
+39	com.google.android.gms	com.google.android.gms.credential.manager.service.operations.checkup.OnDeviceCheckupTaskBoundService	PeriodicOnDeviceCheckup	1741670453981	172800000	345600000	0	0	0	0	{"11854_is_tag_loggable":{"true":3}}	{"maximum_backoff_seconds":{"7200":0},"initial_backoff_seconds":{"1800":0},"retry_policy":{"0":0}}	1	-1	NULL	16	250832000	NULL	NULL	1	1	0	1	1	1
+42	com.google.android.gms	com.google.android.gms.semanticlocationhistory.deidentifieddata.storevisits.StoreVisitsProcessingService	StoreVisitsProcessing	1741670217088	19440000	21600000	0	0	0	0	NULL	{"maximum_backoff_seconds":{"3600":0},"initial_backoff_seconds":{"30":0},"retry_policy":{"0":0}}	1	-1	NULL	16	242335000	NULL	NULL	1	1	0	NULL	1	1
+44	com.google.android.gms	com.google.android.gms.semanticlocationhistory.deidentifieddata.uploads.BatchDeidentifiedDataUploadService	BatchDeidentifiedDataUpload	1741670217116	19440000	21600000	0	0	0	0	NULL	{"maximum_backoff_seconds":{"3600":0},"initial_backoff_seconds":{"30":0},"retry_policy":{"0":0}}	1	-1	NULL	16	242335000	NULL	NULL	1	1	0	NULL	1	1
+46	com.google.android.gms	com.google.android.gms.semanticlocationhistory.pulp.PulpInferenceService	PulpInference	1741670217508	544320000	604800000	0	0	1	1	NULL	{"maximum_backoff_seconds":{"3600":0},"initial_backoff_seconds":{"30":0},"retry_policy":{"0":0}}	1	-1	NULL	16	242335000	NULL	NULL	NULL	NULL	0	1	1	1
+49	com.google.android.gms	com.google.android.gms.semanticlocationhistory.deidentifieddata.pulptraining.PulpTrainingService	PulpTraining	1741670217934	544320000	604800000	0	0	0	0	NULL	{"maximum_backoff_seconds":{"3600":0},"initial_backoff_seconds":{"30":0},"retry_policy":{"0":0}}	1	-1	NULL	16	242335000	NULL	NULL	1	1	0	NULL	1	1
+50	com.google.android.gms	com.google.android.gms.semanticlocationhistory.topplace.TopPlaceProcessingService	TopPlaceProcessing	1741670217968	233280000	259200000	0	0	1	1	NULL	{"maximum_backoff_seconds":{"3600":0},"initial_backoff_seconds":{"30":0},"retry_policy":{"0":0}}	1	-1	NULL	16	242335000	NULL	NULL	NULL	NULL	0	1	1	1
+60	com.google.android.gms	com.google.android.gms.semanticlocationhistory.federated.regionfetcher.RegionMddDownloadScheduleService	RegionMddRefreshDownloadTask	1741670218739	19440000	21600000	0	0	0	0	NULL	{"maximum_backoff_seconds":{"3600":0},"initial_backoff_seconds":{"30":0},"retry_policy":{"0":0}}	1	-1	NULL	16	242335000	NULL	NULL	NULL	1	0	NULL	1	1
+69	com.google.android.gms	com.google.android.gms.nearby.discovery.offline.OfflineCachingService	OfflineCachingTask	1741671213333	8640000	86400000	0	0	0	1	NULL	{"maximum_backoff_seconds":{"3600":0},"initial_backoff_seconds":{"30":0},"retry_policy":{"0":0}}	1	-1	NULL	16	250832000	NULL	NULL	1	NULL	0	NULL	0	1
+72	com.google.android.gms	com.google.android.gms.icing.mdh.service.MobileDataHubGcmTaskService	mdh-forcedsync	1741670224399	86400000	172800000	0	0	1	1	NULL	{"maximum_backoff_seconds":{"3600":0},"initial_backoff_seconds":{"30":0},"retry_policy":{"0":0}}	1	-1	NULL	16	242335000	NULL	NULL	NULL	NULL	0	NULL	0	1
+73	com.google.android.gms	com.google.android.gms.icing.mdh.service.MobileDataHubGcmTaskService	mdh-wipeout	1741670224400	43200000	86400000	0	0	2	1	NULL	{"maximum_backoff_seconds":{"3600":0},"initial_backoff_seconds":{"30":0},"retry_policy":{"0":0}}	1	-1	NULL	16	242335000	NULL	NULL	1	NULL	0	NULL	0	1
+75	com.google.android.gms	com.google.android.gms.icing.mdh.service.MobileDataHubGcmTaskService	mdh-subscription-cleanup	1741670224477	86400000	172800000	0	0	2	1	NULL	{"maximum_backoff_seconds":{"3600":0},"initial_backoff_seconds":{"30":0},"retry_policy":{"0":0}}	1	-1	NULL	16	242335000	NULL	NULL	1	NULL	1	NULL	0	1
+82	com.google.android.gms	com.google.android.gms.icing.indexapi.OneoffRebuildIndexService	OneoffIndexRebuild-com.google.android.apps.maps	1741670232158	30000	60000	0	0	2	1	{"sourceValue":{"4":0},"packageName":{"com.google.android.apps.maps":4}}	{"maximum_backoff_seconds":{"86400":0},"initial_backoff_seconds":{"1800":0},"retry_policy":{"0":0}}	0	-1	NULL	16	242335000	NULL	NULL	1	NULL	1	NULL	0	1
+84	com.google.android.gms	com.google.android.gms.notifications.registration.service.NotificationsRegistrationTaskBoundService	RE_REGISTER_REGISTRATION_ID_CHANGE	1741672706999	0	10000	1741672226288	0	0	0	NULL	{"maximum_backoff_seconds":{"3600":0},"initial_backoff_seconds":{"30":0},"retry_policy":{"0":0}}	0	-1	NULL	16	242335000	NULL	NULL	1	1	0	1	1	1
+89	com.google.android.gms	com.google.android.gms.gmscompliance.sync.BackgroundSyncGmsTaskService	compliant_sync	1741670236533	60480000	604800000	0	0	1	0	{"11854_is_tag_loggable":{"true":3}}	{"maximum_backoff_seconds":{"3600":0},"initial_backoff_seconds":{"30":0},"retry_policy":{"0":0}}	1	-1	NULL	16	242335000	NULL	NULL	NULL	1	0	1	1	1
+90	com.google.android.gms	com.google.android.gms.gmscompliance.sync.BackgroundSyncGmsTaskService	noncompliant_sync	1741670236538	8640000	86400000	0	0	0	0	{"11854_is_tag_loggable":{"true":3}}	{"maximum_backoff_seconds":{"3600":0},"initial_backoff_seconds":{"30":0},"retry_policy":{"0":0}}	1	-1	NULL	16	242335000	NULL	NULL	1	1	0	1	1	1
+92	com.google.android.gms	com.google.android.gms.instantapps.routing.DomainFilterUpdateService	instantapps.DomainFilterUpdateService	1741670236622	8640000	86400000	0	0	0	0	NULL	{"maximum_backoff_seconds":{"3600":0},"initial_backoff_seconds":{"30":0},"retry_policy":{"0":0}}	1	-1	NULL	16	242335000	NULL	NULL	1	NULL	0	NULL	0	1
+93	com.google.android.gms	com.google.android.gms.instantapps.routing.DomainFilterUpdateService	instantapps.DomainFilterUpdateService.frequentChargingUnmetered	1741670236621	4320000	43200000	0	0	1	1	NULL	{"maximum_backoff_seconds":{"3600":0},"initial_backoff_seconds":{"30":0},"retry_policy":{"0":0}}	1	-1	NULL	16	242335000	NULL	NULL	NULL	NULL	0	NULL	0	1
+94	com.google.android.gms	com.google.android.gms.ipa.base.IpaGcmTaskService	MediaStoreCorporaMaintenance	1741671208978	540000000	604800000	0	0	2	1	NULL	{"maximum_backoff_seconds":{"3600":0},"initial_backoff_seconds":{"30":0},"retry_policy":{"0":0}}	1	-1	NULL	16	250832000	NULL	NULL	NULL	NULL	1	NULL	0	1
+95	com.google.android.gms	com.google.android.gms.ipa.base.IpaGcmTaskService	MediaStoreBatchIndexingTask	1741671208980	19440000	21600000	0	0	2	1	NULL	{"maximum_backoff_seconds":{"3600":0},"initial_backoff_seconds":{"30":0},"retry_policy":{"0":0}}	1	-1	NULL	16	250832000	NULL	NULL	NULL	NULL	1	NULL	0	1
+97	com.google.android.gms	com.google.android.gms.ipa.base.IpaGcmTaskService	AppsCorpusMaintenance	1741671208980	1800000	21600000	0	0	2	1	NULL	{"maximum_backoff_seconds":{"3600":0},"initial_backoff_seconds":{"30":0},"retry_policy":{"0":0}}	1	-1	NULL	16	250832000	NULL	NULL	NULL	NULL	1	NULL	0	1
+98	com.google.android.gms	com.google.android.gms.ipa.base.IpaGcmTaskService	AppUsageReportGeneration	1741671209003	1800000	21600000	0	0	2	0	NULL	{"maximum_backoff_seconds":{"3600":0},"initial_backoff_seconds":{"30":0},"retry_policy":{"0":0}}	1	-1	NULL	16	250832000	NULL	NULL	NULL	1	0	NULL	0	1
+103	com.google.android.gms	com.google.android.gms.mdisync.service.MdiSyncBackgroundTaskService	1_PERIODIC	1741670236874	79200000	86400000	0	0	1	1	NULL	{"maximum_backoff_seconds":{"21600":0},"initial_backoff_seconds":{"30":0},"retry_policy":{"0":0}}	1	-1	NULL	16	242335000	NULL	NULL	NULL	NULL	0	NULL	0	1
+104	com.google.android.gms	com.google.android.gms.mdisync.service.MdiSyncBackgroundTaskService	2_PERIODIC	1741670236897	19440000	21600000	0	0	2	1	NULL	{"maximum_backoff_seconds":{"21600":0},"initial_backoff_seconds":{"30":0},"retry_policy":{"0":0}}	1	-1	NULL	16	242335000	NULL	NULL	NULL	NULL	0	NULL	0	1
+106	com.google.android.gms	com.google.android.gms.matchstick.task.ScheduledTaskService	gms:matchstick:checkRegistrationWithLighter	1741670237067	86400000	108000000	0	0	0	0	NULL	{"maximum_backoff_seconds":{"3600":0},"initial_backoff_seconds":{"30":0},"retry_policy":{"0":0}}	0	-1	NULL	16	242335000	NULL	NULL	1	1	0	NULL	0	1
+129	com.google.android.gms	com.google.android.gms.semanticlocationhistory.db.OdlhRemovedAccountsCleanupJob	OdlhRemovedAccountsCleanup	1741670238373	1088640000	1209600000	0	0	0	1	NULL	{"maximum_backoff_seconds":{"3600":0},"initial_backoff_seconds":{"30":0},"retry_policy":{"0":0}}	1	-1	NULL	16	242335000	NULL	NULL	1	NULL	0	NULL	1	1
+130	com.google.android.gms	com.google.android.gms.security.snet.SnetNormalTaskService	event_log_collector_runner	1741671210404	1800000	14400000	0	0	0	0	NULL	{"maximum_backoff_seconds":{"3600":0},"initial_backoff_seconds":{"30":0},"retry_policy":{"0":0}}	1	-1	NULL	16	250832000	NULL	NULL	1	1	0	NULL	0	1
+135	com.google.android.gms	com.google.android.gms.security.snet.SnetIdleTaskService	snet_idle_runner	1741671210408	1080000	10800000	0	0	2	1	NULL	{"maximum_backoff_seconds":{"3600":0},"initial_backoff_seconds":{"30":0},"retry_policy":{"0":0}}	1	-1	NULL	16	250832000	NULL	NULL	NULL	NULL	1	NULL	0	1
+138	com.google.android.gms	com.google.android.gms.telephonyspam.sync.SpamListSyncTaskService	telephonyspam.SpamListSyncLtePeriodicTask	1741670238501	8640000	86400000	0	0	0	0	{"Action":{"1.0":1}}	{"maximum_backoff_seconds":{"3600":0},"initial_backoff_seconds":{"30":0},"retry_policy":{"0":0}}	1	-1	NULL	16	242335000	NULL	NULL	1	1	0	NULL	0	1
+141	com.google.android.gms	com.google.android.gms.threadnetwork.service.firstparty.BorderRouterSyncBoundService	PeriodicBrSync	1741670238503	29160000	32400000	0	0	0	0	NULL	{"maximum_backoff_seconds":{"3600":0},"initial_backoff_seconds":{"30":0},"retry_policy":{"0":0}}	1	-1	NULL	16	242335000	NULL	NULL	NULL	1	0	NULL	1	1
+144	com.google.android.gms	com.google.android.gms.udc.service.UdcContextInitService	UdcSyncPeriodic	1741670238546	79200000	86400000	0	0	0	1	NULL	{"maximum_backoff_seconds":{"21600":0},"initial_backoff_seconds":{"30":0},"retry_policy":{"0":0}}	1	-1	NULL	16	242335000	NULL	NULL	NULL	NULL	0	NULL	0	1
+148	com.google.android.gms	com.google.android.gms.phenotype.service.sync.PackageUpdateTaskService	PhenotypeCatchupPackageUpdate-OnChargerAndIdle	1741670242905	0	86400000	0	0	2	1	NULL	{"maximum_backoff_seconds":{"3600":0},"initial_backoff_seconds":{"30":0},"retry_policy":{"0":0}}	0	-1	NULL	16	242335000	NULL	NULL	NULL	NULL	1	NULL	0	1
+149	com.google.android.gms	com.google.android.gms.phenotype.service.sync.PackageUpdateTaskService	PhenotypeCatchupPackageUpdate-Timeout	1741670242905	82800000	86400000	0	0	2	0	NULL	{"maximum_backoff_seconds":{"3600":0},"initial_backoff_seconds":{"30":0},"retry_policy":{"0":0}}	0	-1	NULL	16	242335000	NULL	NULL	NULL	NULL	0	NULL	0	1
+156	com.google.android.gms	com.google.android.gms.notifications.registration.service.NotificationsRegistrationTaskBoundService	RE_REGISTER_ACCOUNTS_CHANGE	1741672706979	0	10000	1741672226284	0	0	0	NULL	{"maximum_backoff_seconds":{"3600":0},"initial_backoff_seconds":{"30":0},"retry_policy":{"0":0}}	0	-1	NULL	16	242335000	NULL	NULL	1	1	0	1	1	1
+162	com.google.android.gms	com.google.android.gms.auth.cryptauth.register.ReEnrollmentService	ClientDirectiveTag_liam0403.ac@gmail.com	1741671208625	50695000	137095000	0	0	0	0	{"account":{"liam0403.ac@gmail.com":4}}	{"maximum_backoff_seconds":{"129600":0},"initial_backoff_seconds":{"43200":0},"retry_policy":{"1":0}}	0	-1	NULL	16	250832000	NULL	NULL	NULL	1	0	NULL	0	1
+164	com.google.android.gms	com.google.android.gms.common.systemhealthutils.restart.GmsRestartPersistentService	scheduled-restart-persistent	1741671257272	43200000	172800000	0	0	2	0	NULL	{"maximum_backoff_seconds":{"3600":0},"initial_backoff_seconds":{"30":0},"retry_policy":{"0":0}}	0	-1	NULL	16	250832000	NULL	NULL	NULL	1	0	1	0	1
+165	com.google.android.gms	com.google.android.gms.common.systemhealthutils.restart.GmsRestartGmsService	scheduled-restart-gms	1741671258946	43200000	172800000	0	0	2	0	NULL	{"maximum_backoff_seconds":{"3600":0},"initial_backoff_seconds":{"30":0},"retry_policy":{"0":0}}	0	-1	NULL	16	250832000	NULL	NULL	NULL	1	0	1	0	1
+169	com.google.android.gms	com.google.android.gms.fonts.update.UpdateSchedulerService	FontsUpdateCheck	1741670515011	21600000	86400000	0	0	1	1	NULL	{"maximum_backoff_seconds":{"3600":0},"initial_backoff_seconds":{"30":0},"retry_policy":{"0":0}}	1	-1	NULL	16	250832000	NULL	NULL	NULL	NULL	0	NULL	0	1
+170	com.google.android.gms	com.google.android.gms.fonts.service.SystemFontsUpdateSchedulerChimeraService	SystemFontsUpdateCheck	1741670515013	77760000	86400000	0	0	1	1	NULL	{"maximum_backoff_seconds":{"3600":0},"initial_backoff_seconds":{"30":0},"retry_policy":{"0":0}}	1	-1	NULL	16	250832000	NULL	NULL	NULL	NULL	0	NULL	1	1
+171	com.google.android.gms	com.google.android.gms.inappreach.service.rps.FetchAccountMessagesTaskBoundService	PERIODIC_FETCH_TASK	1741670515064	1944000000	2160000000	0	0	1	0	NULL	{"maximum_backoff_seconds":{"3600":0},"initial_backoff_seconds":{"30":0},"retry_policy":{"0":0}}	1	-1	NULL	16	250832000	NULL	NULL	NULL	1	0	NULL	1	1
+172	com.google.android.gms	com.google.android.gms.languageprofile.GcmTaskService	languageprofile.SyncPeriodicUploadTask	1741670278385	79200000	86400000	0	0	0	0	NULL	{"maximum_backoff_seconds":{"3600":0},"initial_backoff_seconds":{"30":0},"retry_policy":{"0":0}}	1	-1	NULL	16	242335000	NULL	NULL	1	1	0	NULL	0	1
+173	com.google.android.gms	com.google.android.gms.languageprofile.GcmTaskService	languageprofile.SyncPeriodicWipeoutTask	1741670278418	79200000	86400000	0	0	2	0	NULL	{"maximum_backoff_seconds":{"3600":0},"initial_backoff_seconds":{"30":0},"retry_policy":{"0":0}}	1	-1	NULL	16	242335000	NULL	NULL	NULL	1	0	NULL	0	1
+174	com.google.android.gms	com.google.android.gms.languageprofile.GcmTaskService	languageprofile.CleanupPeriodicTask	1741670278443	79200000	86400000	0	0	2	0	NULL	{"maximum_backoff_seconds":{"3600":0},"initial_backoff_seconds":{"30":0},"retry_policy":{"0":0}}	1	-1	NULL	16	242335000	NULL	NULL	NULL	1	0	NULL	0	1
+175	com.google.android.gms	com.google.android.gms.languageprofile.GcmTaskService	languageprofile.StoreLanguageSettingsByClientIdPeriodicTask	1741670278456	244800000	259200000	0	0	2	0	NULL	{"maximum_backoff_seconds":{"3600":0},"initial_backoff_seconds":{"30":0},"retry_policy":{"0":0}}	1	-1	NULL	16	242335000	NULL	NULL	NULL	1	0	NULL	0	1
+183	com.google.android.gms	com.google.android.gms.stats.PlatformStatsCollectorService	Telephonystats	1741670516882	9782000	9842000	0	0	2	1	NULL	{"maximum_backoff_seconds":{"3600":0},"initial_backoff_seconds":{"30":0},"retry_policy":{"0":0}}	0	-1	NULL	16	250832000	NULL	NULL	NULL	NULL	0	NULL	0	1
+184	com.google.android.gms	com.google.android.gms.stats.PlatformStatsCollectorService	Graphicsstats	1741670516884	9782000	9842000	0	0	2	1	NULL	{"maximum_backoff_seconds":{"3600":0},"initial_backoff_seconds":{"30":0},"retry_policy":{"0":0}}	0	-1	NULL	16	250832000	NULL	NULL	NULL	NULL	0	NULL	0	1
+185	com.google.android.gms	com.google.android.gms.stats.PlatformStatsCollectorService	Settingsstats	1741670516885	9782000	9842000	0	0	2	1	NULL	{"maximum_backoff_seconds":{"3600":0},"initial_backoff_seconds":{"30":0},"retry_policy":{"0":0}}	0	-1	NULL	16	250832000	NULL	NULL	NULL	NULL	0	NULL	0	1
+186	com.google.android.gms	com.google.android.gms.stats.PlatformStatsCollectorService	Netstats	1741670516886	9782000	9842000	0	0	2	1	NULL	{"maximum_backoff_seconds":{"3600":0},"initial_backoff_seconds":{"30":0},"retry_policy":{"0":0}}	0	-1	NULL	16	250832000	NULL	NULL	NULL	NULL	0	NULL	0	1
+187	com.google.android.gms	com.google.android.gms.stats.PlatformStatsCollectorService	Fingerprintstats	1741670516888	9782000	9842000	0	0	2	1	NULL	{"maximum_backoff_seconds":{"3600":0},"initial_backoff_seconds":{"30":0},"retry_policy":{"0":0}}	0	-1	NULL	16	250832000	NULL	NULL	NULL	NULL	0	NULL	0	1
+188	com.google.android.gms	com.google.android.gms.stats.PlatformStatsCollectorService	Mediastats	1741670516888	9782000	9842000	0	0	2	1	NULL	{"maximum_backoff_seconds":{"3600":0},"initial_backoff_seconds":{"30":0},"retry_policy":{"0":0}}	0	-1	NULL	16	250832000	NULL	NULL	NULL	NULL	0	NULL	0	1
+189	com.google.android.gms	com.google.android.gms.stats.PlatformStatsCollectorService	Ipconnectivitystats	1741670516889	9782000	9842000	0	0	2	1	NULL	{"maximum_backoff_seconds":{"3600":0},"initial_backoff_seconds":{"30":0},"retry_policy":{"0":0}}	0	-1	NULL	16	250832000	NULL	NULL	NULL	NULL	0	NULL	0	1
+190	com.google.android.gms	com.google.android.gms.stats.PlatformStatsCollectorService	Batterystats	1741670516891	9782000	9842000	0	0	2	0	NULL	{"maximum_backoff_seconds":{"3600":0},"initial_backoff_seconds":{"30":0},"retry_policy":{"0":0}}	0	-1	NULL	16	250832000	NULL	NULL	NULL	NULL	0	NULL	0	1
+191	com.google.android.gms	com.google.android.gms.stats.PlatformStatsCollectorService	Diskstats	1741670516892	9782000	9842000	0	0	2	1	NULL	{"maximum_backoff_seconds":{"3600":0},"initial_backoff_seconds":{"30":0},"retry_policy":{"0":0}}	0	-1	NULL	16	250832000	NULL	NULL	NULL	NULL	0	NULL	0	1
+192	com.google.android.gms	com.google.android.gms.stats.PlatformStatsCollectorService	DropboxRealtime	1741670516892	12080000	12140000	0	0	2	0	NULL	{"maximum_backoff_seconds":{"3600":0},"initial_backoff_seconds":{"30":0},"retry_policy":{"0":0}}	0	-1	NULL	16	250832000	NULL	NULL	NULL	NULL	0	NULL	0	1
+193	com.google.android.gms	com.google.android.gms.stats.PlatformStatsCollectorService	Notificationstats	1741670516898	9782000	9842000	0	0	2	1	NULL	{"maximum_backoff_seconds":{"3600":0},"initial_backoff_seconds":{"30":0},"retry_policy":{"0":0}}	0	-1	NULL	16	250832000	NULL	NULL	NULL	NULL	0	NULL	0	1
+194	com.google.android.gms	com.google.android.gms.stats.PlatformStatsCollectorService	UnifiedDumpsysTask	1741670516899	9782000	9842000	0	0	2	1	NULL	{"maximum_backoff_seconds":{"3600":0},"initial_backoff_seconds":{"30":0},"retry_policy":{"0":0}}	0	-1	NULL	16	250832000	NULL	NULL	NULL	NULL	0	NULL	0	1
+195	com.google.android.gms	com.google.android.gms.stats.PlatformStatsCollectorService	Wifistats	1741670516900	9782000	9842000	0	0	2	1	NULL	{"maximum_backoff_seconds":{"3600":0},"initial_backoff_seconds":{"30":0},"retry_policy":{"0":0}}	0	-1	NULL	16	250832000	NULL	NULL	NULL	NULL	0	NULL	0	1
+196	com.google.android.gms	com.google.android.gms.stats.PlatformStatsCollectorService	Telecomstats	1741670516901	9782000	9842000	0	0	2	1	NULL	{"maximum_backoff_seconds":{"3600":0},"initial_backoff_seconds":{"30":0},"retry_policy":{"0":0}}	0	-1	NULL	16	250832000	NULL	NULL	NULL	NULL	0	NULL	0	1
+197	com.google.android.gms	com.google.android.gms.stats.PlatformStatsCollectorService	Launcherstats	1741670516902	9782000	9842000	0	0	2	1	NULL	{"maximum_backoff_seconds":{"3600":0},"initial_backoff_seconds":{"30":0},"retry_policy":{"0":0}}	0	-1	NULL	16	250832000	NULL	NULL	NULL	NULL	0	NULL	0	1
+198	com.google.android.gms	com.google.android.gms.stats.PlatformStatsCollectorService	SurfaceFlinger	1741670516903	9782000	9842000	0	0	2	1	NULL	{"maximum_backoff_seconds":{"3600":0},"initial_backoff_seconds":{"30":0},"retry_policy":{"0":0}}	0	-1	NULL	16	250832000	NULL	NULL	NULL	NULL	0	NULL	0	1
+199	com.google.android.gms	com.google.android.gms.stats.PlatformStatsCollectorService	Procstats	1741670516906	9782000	9842000	0	0	2	1	NULL	{"maximum_backoff_seconds":{"3600":0},"initial_backoff_seconds":{"30":0},"retry_policy":{"0":0}}	0	-1	NULL	16	250832000	NULL	NULL	NULL	NULL	0	NULL	0	1
+204	com.google.android.gms	com.google.android.gms.auth.proximity.firstparty.CryptauthDeviceSyncService	CryptauthDeviceSyncGcmTaskService_v2_-823837743	1741670285013	2284700000	2286500000	0	0	0	0	{"ACCOUNT_NAME":{"liam0403.ac@gmail.com":4}}	{"maximum_backoff_seconds":{"259200":0},"initial_backoff_seconds":{"3600":0},"retry_policy":{"0":0}}	0	-1	NULL	16	242335000	NULL	NULL	1	1	0	NULL	0	1
+208	com.google.android.gms	com.google.android.gms.tapandpay.gcmtask.TapAndPayGcmTaskService	keyguard.check	1741671210339	1200000	3600000	0	0	0	0	{"11854_is_tag_loggable":{"true":3}}	{"maximum_backoff_seconds":{"3600":0},"initial_backoff_seconds":{"30":0},"retry_policy":{"0":0}}	1	-1	NULL	16	250832000	NULL	NULL	1	1	0	NULL	0	1
+210	com.google.android.gms	com.google.android.gms.tapandpay.gcmtask.TapAndPayGcmTaskService	periodic	1741670471651	21600000	86400000	0	0	0	0	{"11854_is_tag_loggable":{"true":3}}	{"maximum_backoff_seconds":{"3600":0},"initial_backoff_seconds":{"30":0},"retry_policy":{"0":0}}	1	-1	NULL	16	250832000	NULL	NULL	1	1	0	NULL	0	1
+211	com.google.android.gms	com.google.android.gms.tapandpay.gcmtask.TapAndPayGcmTaskService	clientconfig.sync	1741670471651	77760000	86400000	0	0	0	0	{"11854_is_tag_loggable":{"true":3}}	{"maximum_backoff_seconds":{"3600":0},"initial_backoff_seconds":{"30":0},"retry_policy":{"0":0}}	1	-1	NULL	16	250832000	NULL	NULL	1	1	0	NULL	0	1
+212	com.google.android.gms	com.google.android.gms.tapandpay.gcmtask.TapAndPayGcmTaskService	Periodic	1741670471651	21600000	43200000	0	0	0	0	{"11854_is_tag_loggable":{"true":3}}	{"maximum_backoff_seconds":{"3600":0},"initial_backoff_seconds":{"30":0},"retry_policy":{"0":0}}	1	-1	NULL	16	250832000	NULL	NULL	1	1	0	NULL	0	1
+216	com.google.android.gms	com.google.android.gms.tapandpay.gcmtask.TapAndPayGcmTaskService	paymentsdisabledperiodic.sync	1741670471657	21600000	86400000	0	0	0	0	{"11854_is_tag_loggable":{"true":3}}	{"maximum_backoff_seconds":{"3600":0},"initial_backoff_seconds":{"30":0},"retry_policy":{"0":0}}	1	-1	NULL	16	250832000	NULL	NULL	1	1	0	NULL	0	1
+217	com.google.android.gms	com.google.android.gms.tapandpay.gcmtask.TapAndPayGcmTaskService	sync_tap_doodles	1741670471656	77760000	86400000	0	0	0	0	{"11854_is_tag_loggable":{"true":3}}	{"maximum_backoff_seconds":{"3600":0},"initial_backoff_seconds":{"30":0},"retry_policy":{"0":0}}	1	-1	NULL	16	250832000	NULL	NULL	1	1	0	NULL	0	1
+218	com.google.android.gms	com.google.android.gms.tapandpay.gcmtask.TapAndPayGcmTaskService	checkin_task	1741670471656	21600000	86400000	0	0	0	0	{"11854_is_tag_loggable":{"true":3}}	{"maximum_backoff_seconds":{"3600":0},"initial_backoff_seconds":{"30":0},"retry_policy":{"0":0}}	1	-1	NULL	16	250832000	NULL	NULL	1	1	0	NULL	0	1
+219	com.google.android.gms	com.google.android.gms.tapandpay.gcmtask.TapAndPayGcmTaskService	keyguard.refresh_cvm_config	1741670471656	544320000	604800000	0	0	0	1	{"11854_is_tag_loggable":{"true":3}}	{"maximum_backoff_seconds":{"3600":0},"initial_backoff_seconds":{"30":0},"retry_policy":{"0":0}}	1	-1	NULL	16	250832000	NULL	NULL	1	NULL	0	NULL	0	1
+220	com.google.android.gms	com.google.android.gms.tapandpay.gcmtask.TapAndPayGcmTaskService	purge_card_art_cache_task	1741670471657	544320000	604800000	0	0	2	0	{"11854_is_tag_loggable":{"true":3}}	{"maximum_backoff_seconds":{"3600":0},"initial_backoff_seconds":{"30":0},"retry_policy":{"0":0}}	1	-1	NULL	16	250832000	NULL	NULL	NULL	1	0	NULL	0	1
+252	com.google.android.gms	com.google.android.gms.phenotype.service.sync.PhenotypeConfigurator	PhenotypePeriodicSync	1741670470324	1800000	86400000	0	0	0	0	{"fetchReason":{"1":0}}	{"maximum_backoff_seconds":{"3600":0},"initial_backoff_seconds":{"30":0},"retry_policy":{"0":0}}	1	-1	NULL	16	250832000	NULL	NULL	1	NULL	0	NULL	0	1
+257	com.google.android.gms	com.google.android.gms.ads.jams.NegotiationService	ads.fetch_integrity_token.periodic	1741670449886	18000000	86400000	0	0	0	0	NULL	{"maximum_backoff_seconds":{"3600":0},"initial_backoff_seconds":{"30":0},"retry_policy":{"0":0}}	1	-1	NULL	16	250832000	NULL	NULL	1	1	0	NULL	0	1
+259	com.google.android.gms	com.google.android.gms.nearby.presence.service.PresenceSyncBoundService	PresenceServerSync	1741671203815	64800000	72000000	0	0	0	0	{"11854_is_tag_loggable":{"true":3}}	{"maximum_backoff_seconds":{"3600":0},"initial_backoff_seconds":{"30":0},"retry_policy":{"0":0}}	1	-1	NULL	16	250832000	NULL	NULL	1	1	0	NULL	1	1
+260	com.google.android.gms	com.google.android.gms.adsidentity.service.AdsidentityMendelPropertyUpdateService	adservices	1741670450156	77760000	86400000	0	0	2	0	NULL	{"maximum_backoff_seconds":{"3600":0},"initial_backoff_seconds":{"30":0},"retry_policy":{"0":0}}	1	-1	NULL	16	250832000	NULL	NULL	NULL	1	0	NULL	1	1
+261	com.google.android.gms	com.google.android.gms.security.snet.TelecomTaskService	snet_telecom_task_tag	1741671210425	86400000	108000000	0	0	2	0	NULL	{"maximum_backoff_seconds":{"3600":0},"initial_backoff_seconds":{"30":0},"retry_policy":{"0":0}}	0	-1	NULL	16	250832000	NULL	NULL	NULL	1	0	NULL	1	1
+262	com.google.android.gms	com.google.android.gms.scheduler.standalone.housekeeping.HousekeepingTrainTaskService	Train_0_1_1_0_0_0	1741670450162	1000	43200000	0	0	0	0	{"TRAIN_START_EPOCH":{"1741670450045":2},"11854_is_tag_loggable":{"true":3},"EXEC_WINDOW_END_EPOCH":{"1741713650045":2},"TRAIN_INITIALIZED_EPOCH":{"1741670450045":2}}	{"maximum_backoff_seconds":{"3600":0},"initial_backoff_seconds":{"30":0},"retry_policy":{"0":0}}	0	-1	NULL	16	250832000	NULL	NULL	1	1	0	1	1	1
+--
+289	com.google.android.gms	com.google.android.gms.potokens.service.IntegrityTokenRefreshTaskService	po_it_refresh_task	1741670461531	43199000	82799000	0	0	0	0	NULL	{"maximum_backoff_seconds":{"3600":0},"initial_backoff_seconds":{"30":0},"retry_policy":{"0":0}}	0	-1	NULL	16	250832000	NULL	NULL	1	1	0	1	1	1
+290	com.google.android.gms	com.google.android.gms.scheduler.standalone.housekeeping.HousekeepingTrainTaskService	Train_0_0_1_0_0_2	1741670468249	1000	43200000	0	0	2	1	{"TRAIN_START_EPOCH":{"1741670468248":2},"11854_is_tag_loggable":{"true":3},"EXEC_WINDOW_END_EPOCH":{"1741713668248":2},"TRAIN_INITIALIZED_EPOCH":{"1741670468248":2}}	{"maximum_backoff_seconds":{"3600":0},"initial_backoff_seconds":{"30":0},"retry_policy":{"0":0}}	0	-1	NULL	16	250832000	NULL	NULL	NULL	NULL	0	1	1	1
+292	com.google.android.gms	com.google.android.gms.phenotype.service.sync.PhenotypeConfigurator	PhenotypeAdaptiveSync	1741672189154	14400000	604800000	0	0	0	0	{"fetchReason":{"2":0}}	{"maximum_backoff_seconds":{"3600":0},"initial_backoff_seconds":{"30":0},"retry_policy":{"0":0}}	0	-1	NULL	16	250832000	NULL	NULL	1	1	0	NULL	0	1
+294	com.google.android.gms	com.google.android.gms.auth.aang.events.services.AppRestrictionsSyncService	GeneralRestrictionsSyncPeriodicTag	1741670470480	86400000	86400000	0	0	0	0	NULL	{"maximum_backoff_seconds":{"43200":0},"initial_backoff_seconds":{"30":0},"retry_policy":{"0":0}}	1	-1	NULL	16	250832000	NULL	NULL	1	1	0	NULL	1	1
+302	com.google.android.gms	com.google.android.gms.scheduler.standalone.housekeeping.HousekeepingTrainTaskService	Train_5_1_1_0_0_0	1741670472631	1000	43200000	0	0	0	0	{"TRAIN_START_EPOCH":{"1741670472630":2},"11854_is_tag_loggable":{"true":3},"EXEC_WINDOW_END_EPOCH":{"1741713672630":2},"TRAIN_INITIALIZED_EPOCH":{"1741670472630":2}}	{"maximum_backoff_seconds":{"3600":0},"initial_backoff_seconds":{"30":0},"retry_policy":{"0":0}}	0	-1	NULL	16	250832000	NULL	NULL	1	1	0	1	1	1
+303	com.google.android.gms	com.google.android.gms.scheduler.standalone.housekeeping.HousekeepingTrainTaskService	Train_5_1_0_0_0_0	1741670472631	19440000	21600000	0	0	1	1	{"TRAIN_START_EPOCH":{"-1":2},"11854_is_tag_loggable":{"true":3},"EXEC_WINDOW_END_EPOCH":{"-1":2},"TRAIN_INITIALIZED_EPOCH":{"-1":2}}	{"maximum_backoff_seconds":{"3600":0},"initial_backoff_seconds":{"30":0},"retry_policy":{"0":0}}	1	-1	NULL	16	250832000	NULL	NULL	NULL	NULL	1	NULL	1	1
+315	com.google.android.gms	com.google.android.gms.security.safebrowsing.SafeBrowsingGmsTaskBoundService	update_list	1741670483718	77760000	86400000	0	0	0	0	NULL	{"maximum_backoff_seconds":{"3600":0},"initial_backoff_seconds":{"30":0},"retry_policy":{"0":0}}	1	-1	NULL	16	250832000	NULL	NULL	1	1	0	NULL	1	1
+319	com.google.android.gms	com.google.android.gms.scheduler.standalone.housekeeping.HousekeepingTrainTaskService	Train_0_0_1_0_0_6	1741670515076	1000	43200000	0	0	2	1	{"TRAIN_START_EPOCH":{"1741670515075":2},"11854_is_tag_loggable":{"true":3},"EXEC_WINDOW_END_EPOCH":{"1741713715075":2},"TRAIN_INITIALIZED_EPOCH":{"1741670515075":2}}	{"maximum_backoff_seconds":{"3600":0},"initial_backoff_seconds":{"30":0},"retry_policy":{"0":0}}	0	-1	NULL	16	250832000	NULL	NULL	NULL	NULL	1	NULL	1	1
+320	com.google.android.gms	com.google.android.gms.scheduler.standalone.housekeeping.HousekeepingTrainTaskService	Train_0_1_1_0_0_7	1741670515095	1000	43200000	0	0	1	1	{"TRAIN_START_EPOCH":{"1741670515095":2},"11854_is_tag_loggable":{"true":3},"EXEC_WINDOW_END_EPOCH":{"1741713715095":2},"TRAIN_INITIALIZED_EPOCH":{"1741670515095":2}}	{"maximum_backoff_seconds":{"3600":0},"initial_backoff_seconds":{"30":0},"retry_policy":{"0":0}}	0	-1	NULL	16	250832000	NULL	NULL	NULL	NULL	1	NULL	1	1
+323	com.google.android.gms	com.google.android.gms.mobiledataplan.service.PeriodicUpdaterService	mobiledataplan_register	1741671209736	14400000	86400000	0	0	0	0	{"event_flow_id":{"951256247":0},"task_interval_key":{"86400":2},"task_flex_key":{"14400":2}}	{"maximum_backoff_seconds":{"3600":0},"initial_backoff_seconds":{"30":0},"retry_policy":{"0":0}}	1	-1	NULL	16	250832000	NULL	NULL	1	1	0	NULL	0	1
+324	com.google.android.gms	com.google.android.gms.notifications.registration.service.NotificationsRegistrationTaskBoundService	REGISTER_CHIME_GMS_ACCOUNTS	1741670515368	544320000	604800000	0	0	0	0	NULL	{"maximum_backoff_seconds":{"3600":0},"initial_backoff_seconds":{"30":0},"retry_policy":{"0":0}}	1	-1	NULL	16	250832000	NULL	NULL	1	1	0	1	1	1
+325	com.google.android.gms	com.google.android.gms.notifications.registration.service.NotificationsRegistrationTaskBoundService	RE_REGISTER_APP_UPDATE	1741672707398	0	10000	1741672227006	0	0	0	NULL	{"maximum_backoff_seconds":{"3600":0},"initial_backoff_seconds":{"30":0},"retry_policy":{"0":0}}	0	-1	NULL	16	250832000	NULL	NULL	1	1	0	1	1	1
+337	com.google.android.gms	com.google.android.gms.scheduler.standalone.housekeeping.HousekeepingTrainTaskService	Train_4_1_1_0_0_0	1741670516178	1000	86400000	0	0	0	0	{"TRAIN_START_EPOCH":{"1741670516138":2},"11854_is_tag_loggable":{"true":3},"EXEC_WINDOW_END_EPOCH":{"1741756916138":2},"TRAIN_INITIALIZED_EPOCH":{"1741670516138":2}}	{"maximum_backoff_seconds":{"3600":0},"initial_backoff_seconds":{"30":0},"retry_policy":{"0":0}}	0	-1	NULL	16	250832000	NULL	NULL	1	1	0	1	1	1
+338	com.google.android.gms	com.google.android.gms.chimera.container.ConfigService	ChimeraConfigService_OneOffRetry	1741670516573	3300000	43201000	0	0	0	0	{"allowRetry":{"false":3},"reason":{"3":0}}	{"maximum_backoff_seconds":{"3600":0},"initial_backoff_seconds":{"30":0},"retry_policy":{"0":0}}	0	-1	NULL	16	250832000	NULL	NULL	NULL	NULL	0	1	0	1
+346	com.google.android.gms	com.google.android.gms.findmydevice.spot.sync.SelfReportingRegistrationAndOwnerKeySyncService	FMD_SPOT_OF_SRRS	1741670847823	86024000	86084000	0	0	0	0	{"11854_is_tag_loggable":{"true":3},"throttle":{"false":3}}	{"maximum_backoff_seconds":{"3600":0},"initial_backoff_seconds":{"30":0},"retry_policy":{"0":0}}	0	-1	NULL	16	250832000	NULL	NULL	1	1	0	NULL	1	1
+354	com.google.android.gms	com.google.android.gms.semanticlocationhistory.federated.BrellaFrequentInvocationService	BrellaFrequentInvocationService	1741671148548	38880000	43200000	0	0	0	0	NULL	{"maximum_backoff_seconds":{"3600":0},"initial_backoff_seconds":{"30":0},"retry_policy":{"0":0}}	1	-1	NULL	16	250832000	NULL	NULL	1	1	1	NULL	1	1
+363	com.google.android.gms	com.google.android.gms.scheduler.standalone.housekeeping.HousekeepingTrainTaskService	Train_2_0_1_0_0_6	1741671156330	1000	423360000	0	0	2	1	{"TRAIN_START_EPOCH":{"1741671156326":2},"11854_is_tag_loggable":{"true":3},"EXEC_WINDOW_END_EPOCH":{"1742094516326":2},"TRAIN_INITIALIZED_EPOCH":{"1741671156326":2}}	{"maximum_backoff_seconds":{"3600":0},"initial_backoff_seconds":{"30":0},"retry_policy":{"0":0}}	0	-1	NULL	16	250832000	NULL	NULL	NULL	NULL	1	NULL	1	1
+364	com.google.android.gms	com.google.android.gms.auth.cryptauth.synckeys.SyncKeysChimeraService	cryptauth_sync_phonetheft_toggled	1741671156535	NULL	NULL	0	0	0	0	{"invocation_reason":{"9":0}}	{"maximum_backoff_seconds":{"86400":0},"initial_backoff_seconds":{"60":0},"retry_policy":{"0":0}}	2	-1	{"uri_flags":[0],"uris":["content:\/\/settings\/secure\/mandatory_biometrics"]}	16	250832000	[]	NULL	NULL	1	0	NULL	1	1
+369	com.google.android.gms	com.google.android.gms.scheduler.standalone.housekeeping.HousekeepingTrainTaskService	Train_5_0_1_0_0_6	1741671157267	1000	43200000	0	0	2	1	{"TRAIN_START_EPOCH":{"1741671157266":2},"11854_is_tag_loggable":{"true":3},"EXEC_WINDOW_END_EPOCH":{"1741714357266":2},"TRAIN_INITIALIZED_EPOCH":{"1741671157266":2}}	{"maximum_backoff_seconds":{"3600":0},"initial_backoff_seconds":{"30":0},"retry_policy":{"0":0}}	0	-1	NULL	16	250832000	NULL	NULL	NULL	NULL	1	NULL	1	1
+370	com.google.android.gms	com.google.android.gms.scheduler.standalone.housekeeping.HousekeepingTrainTaskService	Train_5_0_0_0_0_0	1741671157268	19440000	21600000	0	0	2	1	{"TRAIN_START_EPOCH":{"-1":2},"11854_is_tag_loggable":{"true":3},"EXEC_WINDOW_END_EPOCH":{"-1":2},"TRAIN_INITIALIZED_EPOCH":{"-1":2}}	{"maximum_backoff_seconds":{"3600":0},"initial_backoff_seconds":{"30":0},"retry_policy":{"0":0}}	1	-1	NULL	16	250832000	NULL	NULL	NULL	NULL	1	NULL	1	1
+371	com.google.android.gms	com.google.android.gms.scheduler.standalone.housekeeping.HousekeepingTrainTaskService	Train_5_1_1_0_0_6	1741671157273	1000	43200000	0	0	0	1	{"TRAIN_START_EPOCH":{"1741671157273":2},"11854_is_tag_loggable":{"true":3},"EXEC_WINDOW_END_EPOCH":{"1741714357273":2},"TRAIN_INITIALIZED_EPOCH":{"1741671157273":2}}	{"maximum_backoff_seconds":{"3600":0},"initial_backoff_seconds":{"30":0},"retry_policy":{"0":0}}	0	-1	NULL	16	250832000	NULL	NULL	1	NULL	1	NULL	1	1
+372	com.google.android.gms	com.google.android.gms.scheduler.standalone.housekeeping.HousekeepingTrainTaskService	Train_5_1_1_0_0_7	1741671157287	1000	43200000	0	0	1	1	{"TRAIN_START_EPOCH":{"1741671157285":2},"11854_is_tag_loggable":{"true":3},"EXEC_WINDOW_END_EPOCH":{"1741714357285":2},"TRAIN_INITIALIZED_EPOCH":{"1741671157285":2}}	{"maximum_backoff_seconds":{"3600":0},"initial_backoff_seconds":{"30":0},"retry_policy":{"0":0}}	0	-1	NULL	16	250832000	NULL	NULL	NULL	NULL	1	NULL	1	1
+394	com.google.android.gms	com.google.android.gms.gcm.HeartbeatAlarm$ConnectionInfoPersistService	affinityUpdateTask	1741671201358	77760000	86400000	0	0	0	0	NULL	{"maximum_backoff_seconds":{"3600":0},"initial_backoff_seconds":{"30":0},"retry_policy":{"0":0}}	1	-1	NULL	16	250832000	NULL	NULL	1	1	0	NULL	0	0
+395	com.google.android.gms	com.google.android.gms.httpflags.service.PeriodicTaskGmsTaskBoundService	HttpflagsPeriodicTask	1741671201529	3600000	43200000	0	0	2	0	NULL	{"maximum_backoff_seconds":{"3600":0},"initial_backoff_seconds":{"30":0},"retry_policy":{"0":0}}	0	-1	NULL	16	250832000	NULL	NULL	NULL	1	0	1	1	0
+396	com.google.android.gms	com.google.android.contextmanager.service.ContextManagerLogsUploadBoundService	WorkManagerSave	1741671201531	3600000	7200000	0	0	2	0	{"11854_is_tag_loggable":{"true":3}}	{"maximum_backoff_seconds":{"3600":0},"initial_backoff_seconds":{"30":0},"retry_policy":{"0":0}}	0	-1	NULL	16	250832000	NULL	NULL	NULL	1	0	NULL	1	0
+398	com.google.android.gms	com.google.android.gms.usagereporting.service.UsageReportingChimeraService$CheckboxRestoringTaskBoundService	CheckboxRestoringTask	1741671201797	NULL	NULL	0	0	2	0	NULL	{"maximum_backoff_seconds":{"3600":0},"initial_backoff_seconds":{"30":0},"retry_policy":{"0":0}}	2	-1	{"uri_flags":[0],"uris":["content:\/\/settings\/global\/multi_cb"]}	16	250832000	[]	NULL	NULL	1	0	NULL	1	0
+399	com.google.android.gms	com.google.android.location.geofencer.service.RandomDailyTaskSchedulerService	4905f2f8-f343-11ec-b9ed-0f4a1a138b74	1741671202149	15006000	15306000	0	0	0	0	NULL	{"maximum_backoff_seconds":{"3600":0},"initial_backoff_seconds":{"30":0},"retry_policy":{"0":0}}	0	-1	NULL	16	250832000	NULL	NULL	1	1	0	NULL	1	0
+400	com.google.android.gms	com.google.android.gms.time.trustedtime.singleuserapi.service.TrustedTimeMaintenanceTaskService	PeriodicTrustedTimeMaintenanceTask	1741671202303	64800000	72000000	0	0	2	0	NULL	{"maximum_backoff_seconds":{"3600":0},"initial_backoff_seconds":{"30":0},"retry_policy":{"0":0}}	1	-1	NULL	16	250832000	NULL	NULL	NULL	NULL	0	NULL	1	0
+403	com.google.android.gms	com.google.android.gms.icing.service.IcingGcmTaskService	app-history-upload	1741671204719	1800000	21600000	0	0	0	0	NULL	{"maximum_backoff_seconds":{"3600":0},"initial_backoff_seconds":{"30":0},"retry_policy":{"0":0}}	0	-1	NULL	16	250832000	NULL	NULL	1	1	1	NULL	0	0
+405	com.google.android.gms	com.google.android.gms.time.trustedtime.singleuserapi.service.TrustedTimeMaintenanceTaskService	OneOffTrustedTimeMaintenanceTask	1741671205351	64799000	65399000	0	0	0	0	NULL	{"maximum_backoff_seconds":{"3600":0},"initial_backoff_seconds":{"30":0},"retry_policy":{"0":0}}	0	-1	NULL	16	250832000	NULL	NULL	1	NULL	0	NULL	1	0
+407	com.google.android.gms	com.google.android.gms.checkin.CheckinService	GServicesObserverTaskTag	1741671207484	NULL	NULL	0	0	0	0	{"CheckinService_onStart_showNotification":{"false":3},"CheckinService_onStart_checkinReason":{"8":0}}	{"maximum_backoff_seconds":{"3600":0},"initial_backoff_seconds":{"30":0},"retry_policy":{"0":0}}	2	-1	{"uri_flags":[1],"uris":["content:\/\/com.google.android.gsf.gservices"]}	16	250832000	[]	NULL	NULL	NULL	0	NULL	0	0
+408	com.google.android.gms	com.google.android.gms.gass.chimera.SchedulePeriodicTasksService	GASS_PERIODIC_TASKS_AD_ATTESTATION_SIGNAL	1741757608861	86400000	86400000	1741671211300	0	0	0	NULL	{"maximum_backoff_seconds":{"3600":0},"initial_backoff_seconds":{"1800":0},"retry_policy":{"0":0}}	1	-1	NULL	16	250832000	NULL	NULL	NULL	NULL	0	NULL	0	0
+409	com.google.android.gms	com.google.android.gms.icing.proxy.IcingInternalCorporaUpdateService	internal-corpora-update	1741671208940	NULL	NULL	0	0	0	0	NULL	{"maximum_backoff_seconds":{"3600":0},"initial_backoff_seconds":{"30":0},"retry_policy":{"0":0}}	2	-1	{"uri_flags":[1],"uris":["content:\/\/com.android.contacts"]}	16	250832000	[]	NULL	1	NULL	0	NULL	0	0
+410	com.google.android.gms	com.google.android.gms.ipa.base.IpaGcmTaskService	MediaStoreInstantIndexTask	1741671208980	NULL	NULL	0	0	0	0	NULL	{"maximum_backoff_seconds":{"3600":0},"initial_backoff_seconds":{"30":0},"retry_policy":{"0":0}}	2	-1	{"uri_flags":[1,1],"uris":["content:\/\/media\/external\/file","content:\/\/media\/external\/audio\/media"]}	16	250832000	[]	NULL	1	NULL	0	NULL	0	0
+411	com.google.android.gms	com.google.android.gms.nearby.sharing.SharingSyncService	SharingServerSync	1741671210076	25920000	28800000	0	0	0	0	NULL	{"maximum_backoff_seconds":{"3600":0},"initial_backoff_seconds":{"30":0},"retry_policy":{"0":0}}	1	-1	NULL	16	250832000	NULL	NULL	1	1	0	NULL	0	1
+412	com.google.android.gms	com.google.android.gms.tapandpay.gcmtask.TapAndPayGcmTaskService	hce.dynamic_aid_registration.oneoff	1741673146662	0	1000	1741672186639	0	2	0	{"register_if_changed_only":{"false":3},"registration_reason":{"1":0},"11854_is_tag_loggable":{"true":3}}	{"maximum_backoff_seconds":{"3600":0},"initial_backoff_seconds":{"30":0},"retry_policy":{"0":0}}	0	-1	NULL	16	250832000	NULL	NULL	NULL	1	0	NULL	0	0
+413	com.google.android.gms	com.google.android.gms.tapandpay.gcmtask.TapAndPayGcmTaskService	tapreporting.uploadTapInfos	1741671210339	0	3600000	0	0	0	0	{"11854_is_tag_loggable":{"true":3}}	{"maximum_backoff_seconds":{"3600":0},"initial_backoff_seconds":{"30":0},"retry_policy":{"0":0}}	0	-1	NULL	16	250832000	NULL	NULL	NULL	1	0	NULL	0	0
+416	com.google.android.gms	com.google.android.gms.tapandpay.gcmtask.TapAndPayGcmTaskService	tns.migrate	1741671210384	0	14400000	0	0	0	0	{"11854_is_tag_loggable":{"true":3}}	{"maximum_backoff_seconds":{"3600":0},"initial_backoff_seconds":{"30":0},"retry_policy":{"0":0}}	0	-1	NULL	16	250832000	NULL	NULL	1	1	0	NULL	0	0
+420	com.google.android.gms	com.google.android.gms.semanticlocationhistory.settings.SettingsSyncOneOffService	OdlhSettingsSyncOneOffTask	1741671210682	600000	1800000	0	0	0	0	NULL	{"maximum_backoff_seconds":{"3600":0},"initial_backoff_seconds":{"30":0},"retry_policy":{"0":0}}	0	-1	NULL	16	250832000	NULL	NULL	1	1	0	NULL	1	0
+430	com.google.android.gms	com.google.android.gms.auth.account.be.accountstate.GcmTaskService	upgrade_lst_binding_actione5f1215ea3e402cbc364fc88765b9d042295b45b2c8bfa64c30fb677f9e5190a	1741671264887	30000	1830000	0	0	0	0	{"token_upgrade_info_encoded_proto":{"CkRBT3R3WVRJc0JQX3M3TDkwaUFDZ3p4eGtoQ1lJdDRVT3U3V0hqVTlYN0ZlTDd3SHJXX1FaTnpycXZlR25RUl9sRkN6Sg":4},"Account_name":{"liam0403.ac@gmail.com":4},"EXTRA_ACTION":{"upgrade_lst_binding_action":4}}	{"maximum_backoff_seconds":{"3600":0},"initial_backoff_seconds":{"30":0},"retry_policy":{"0":0}}	0	-1	NULL	16	250832000	NULL	NULL	NULL	1	0	NULL	0	0
+432	com.google.android.gms	com.google.android.gms.droidguard.DroidGuardGcmTaskService	dg_task	1741671269840	43199000	86399000	0	0	1	1	{"SCHEDULED_AT":{"1741671269838":2},"TASK_DEADLINE":{"1741757668838":2}}	{"maximum_backoff_seconds":{"3600":0},"initial_backoff_seconds":{"30":0},"retry_policy":{"0":0}}	0	-1	NULL	16	250832000	NULL	NULL	NULL	NULL	0	NULL	0	0
+489	com.google.android.gms	com.google.android.gms.clearcut.uploader.QosUploaderService	qos_oneoff	1741672502215	5000	8640000000	0	0	0	0	NULL	{"maximum_backoff_seconds":{"3600":0},"initial_backoff_seconds":{"30":0},"retry_policy":{"0":0}}	0	-1	NULL	16	250832000	NULL	NULL	NULL	NULL	0	NULL	0	0
+490	com.google.android.gms	com.google.android.gms.measurement.PackageMeasurementTaskService	Measurement.PackageMeasurementTaskService.UPLOAD_TASK_TAG	1741672502851	3598000	7197000	0	0	0	0	NULL	{"maximum_backoff_seconds":{"3600":0},"initial_backoff_seconds":{"30":0},"retry_policy":{"0":0}}	0	-1	NULL	16	250832000	NULL	NULL	1	1	0	NULL	0	1
+--------------------------------------------------
+
+
+==================== DATABASE: data/com.google.android.gms/databases/portable_geller_liam0403.ac@gmail.com.db ====================
+
+Tables found:
+- android_metadata
+- geller_data_table
+- geller_key_table
+- geller_metadata_table
+- geller_file_table
+- geller_database_info_table
+
+--- Schema for table: geller_data_table ---
+CREATE TABLE geller_data_table (_id INTEGER PRIMARY KEY, data BLOB NOT NULL)
+
+--- Data for table: geller_data_table ---
+_id	data
+1	b'\x1a\xee\x05\nCtype.googleapis.com/personalization.geller.proto.GellerClientConfig\x12\xa6\x05\n\x07\x08\x80\x80\x80d\x10\x01\x12\xbf\x01\n\r\x08\xad\x01\x12\x08\x08\x01\x18\x01*\x02\x08\x01\n\r\x08\xae\x01\x12\x08\x08\x01\x18\x01*\x02\x08\x01\n\x0c\x08O\x12\x08\x08\x01\x10\x00\x18\x00 2\n\r\x08\x83\x01\x12\x08\x08\x01\x10\x01\x18\x00 \n\n\n\x08:\x12\x06\x08\x01\x10\x00 \x00\n\x06\x08$\x12\x02\x08\x01\n\x08\x08.\x12\x04\x08\x01\x18\x05\n\x0b\x08\x81\x08\x12\x06\x08\x01\x18\x00 \x00\n\x0b\x08\x83\x08\x12\x06\x08\x01\x18\x00 \x00\n\x0b\x08\x89\x08\x12\x06\x08\x01\x18\x00 \x00\n\x0b\x08\x96\x08\x12\x06\x08\x01\x18\x00 \x00\n\n\x08E\x12\x06\x08\x01\x10\x07\x18\x07\n\x0b\x08\xa4\x08\x12\x06\x08\x01\x18\x00 \x00\n\x0b\x08\xa9\x08\x12\x06\x08\x01\x18\x00 \x00\n\n\x08\x15\x12\x06\x08\x01\x18\x1e \x01\x1a\xa5\x02\n\t\x08\xad\x01\x12\x04\n\x02\x08\x01\n\t\x08\xae\x01\x12\x04\n\x02\x08\x01\nI\x08O\x12E\n\x02\x08\x01\x12\x02\x08\x01\x1a;\x08\x01\x124type.googleapis.com/geller.externaldb.ExternalDbSync\x18\x8a\x01\nJ\x08\x83\x01\x12E\n\x02\x08\x01\x12\x02\x08\x01\x1a;\x08\x01\x124type.googleapis.com/geller.externaldb.ExternalDbSync\x18\x8a\x01\n\x0c\x08:\x12\x08\n\x02\x08\x01\x12\x02\x08\x01\n\x08\x08$\x12\x04\n\x02\x08\x01\n\x08\x08.\x12\x04\n\x02\x08\x01\n\t\x08\x81\x08\x12\x04\n\x02\x08\x01\n\t\x08\x83\x08\x12\x04\n\x02\x08\x01\n\t\x08\x89\x08\x12\x04\n\x02\x08\x01\n\t\x08\x96\x08\x12\x04\n\x02\x08\x01\n\x08\x08E\x12\x04\n\x02\x08\x01\n\t\x08\xa4\x08\x12\x04\n\x02\x08\x01\n\t\x08\xa9\x08\x12\x04\n\x02\x08\x01\n\x08\x08\x15\x12\x04\n\x02\x08\x01"\x00*l\n\x1c\x08\x01\x12\x18\x12\x16\x08\x01\x12\n\x08\x04*\x06\n\x04\x08\x01\x10\x01\x12\x06\x08\x04\x1a\x02\x08\x03\n(\x08\x02\x12$\x12"\x08\x01\x12\x16\x08\x04*\x12\n\x04\x08\x07\x10\x01\n\x04\x08\x07\x10\x1c\n\x04\x08\x07\x10 \x12\x06\x08\x04\x1a\x02\x08\x1d\n"\x08\x02\x12\x1e\x12\x1c\x08\x01\x12\x10\x08\x04*\x0c\n\x04\x08\x08\x10\x01\n\x04\x08\x08\x10 \x12\x06\x08\x04\x1a\x02\x08\x042A\n\x0b\x08\x94\x08\x12\x06\x08\x06\x10\x01 \x01\n\x0b\x08\x92\x08\x12\x06\x08\x06\x10\x01 \x01\n\x0b\x08\x84\x08\x12\x06\x08\x06\x10\x01 \x01\n\x0b\x08\xa9\x08\x12\x06\x08\x06\x10\x01 \x14\n\x0b\x08\xaa\x08\x12\x06\x08\x06\x10\x01 92\x13\x08\x8f\xcd\xbf\xaa\xa3\x81\x8c\x03\x15;O^\x04\x1d\x82\xe5)\xfe'
+--
+
+
+==================== DATABASE: data/com.google.android.gms/databases/cryptauthkeys.db ====================
+
+Tables found:
+- android_metadata
+- keys
+- metadata
+- group_keys
+
+--- Schema for table: keys ---
+CREATE TABLE keys(key_handle STRING NOT NULL, key_name STRING NOT NULL, key_form INTEGER NOT NULL, key_type STRING NOT NULL, account STRING NOT NULL, master_key STRING, public_key STRING, private_key STRING, active_status INTEGER NOT NULL, creation_time INTEGER NOT NULL, exportable INTEGER NOT NULL, expiration_time INTEGER NOT NULL, PRIMARY KEY(key_handle,account))
+
+--- Data for table: keys ---
+key_handle	key_name	key_form	key_type	account	master_key	public_key	private_key	active_status	creation_time	exportable	expiration_time
+ZGV2aWNlX2tleQ	PublicKey	1	P256	liam0403.ac@gmail.com	NULL	CAESRAogCWAgbu_KX2OsL-WvBdfPuC1Kle8shRTgySFz9MZwRwUSIHNX-rwDDopNMPQy3W6EP74JmUtbmk68Zs0Z0u8E7KHi	MIGHAgEAMBMGByqGSM49AgEGCCqGSM49AwEHBG0wawIBAQQgJkoKCIQtVwLwUZMLzxuJRzlttMRZ20Lik3Dp5S9FTqChRANCAAQJYCBu78pfY6wv5a8F18-4LUqV7yyFFODJIXP0xnBHBXNX-rwDDopNMPQy3W6EP74JmUtbmk68Zs0Z0u8E7KHi	1	1741670264174	1	1741721903389
+XH57q4KfT7zD7K13ecvT-jlJkHJeJTIUWJKhqHJa1G8	authzen	2	RAW256	liam0403.ac@gmail.com	q4WenYJbA2_FpuESB3jHMwlJzyryoqiP9rCL8r8fl9s	NULL	NULL	1	1741670264175	2	1741721903390
+0VIFB-Nz9IsyjItC6puQJ4FYSb1u5HCk3_WXgf3PeXA	DeviceSync:BetterTogether	1	P256	liam0403.ac@gmail.com	NULL	CAESRQohAJGPYsmk20dMSV0nH4F7BPMt-VAnjHnjkGNqJNCgXma4EiAlmTD6oxa3p8_g8Tem1HkOdmxGrsbvXqJnEscgWYjhCA	MIGHAgEAMBMGByqGSM49AgEGCCqGSM49AwEHBG0wawIBAQQgoAgTibU8rh7f36agwXRv8SS-raLLdUtfzbVj9YRpGNWhRANCAASRj2LJpNtHTEldJx-BewTzLflQJ4x545BjaiTQoF5muCWZMPqjFrenz-DxN6bUeQ52bEauxu9eomcSxyBZiOEI	1	1741670286423	1	1741721903399
+5L843FHkCpiZ8HJNNuu7TeJXJXLss3wbqd5hk1PhALo	fido:android_software_key	1	P256	liam0403.ac@gmail.com	NULL	CAESRAogfLt5WfyskNi9qjYQd5zc1XB4XNtal22RR4TFgg-44acSIB2ruxyX81GsH9GmCyx5mvz0-ig7c9egcvSnkgmn8m9v	MIGHAgEAMBMGByqGSM49AgEGCCqGSM49AwEHBG0wawIBAQQgH8eZboWAI7U10QmtlsBUo9Mp0K3VQBRMjqAAP9qFGBChRANCAAR8u3lZ_KyQ2L2qNhB3nNzVcHhc21qXbZFHhMWCD7jhpx2ruxyX81GsH9GmCyx5mvz0-ig7c9egcvSnkgmn8m9v	1	1741670293370	1	1741721903313
+7jrnf8BQUcR9NRLydAeCVQNWWx4GhhgM_WyM4qCrWyo	fido:android_software_key_cable_lk	2	RAW256	liam0403.ac@gmail.com	BthFnxCdj-ooY_ArnzcByozQMDLlZo0YYmggTFLAzuM	NULL	NULL	1	1741670293371	1	1741721903314
+erTL3lo8WIuJUVFZZuyP7hT8JkFmcI74cgqJFv4awGc	fido:android_software_key_cable_irk	2	RAW256	liam0403.ac@gmail.com	i-qXGrAsmwEocDOVY-GIggqpbqQun2vrZqyJefIG3Ns	NULL	NULL	1	1741670293371	1	1741721903314
+--------------------------------------------------
+
+--- Schema for table: metadata ---
+CREATE TABLE metadata(identifier STRING NOT NULL, account STRING NOT NULL, client_metadata STRING, PRIMARY KEY(account,identifier))
+
+--- Data for table: metadata ---
+identifier	account	client_metadata
+feature_2	liam0403.ac@gmail.com	CAISCQoHAQcJDwMFCw
+feature_3	liam0403.ac@gmail.com	CAM
+feature_1	liam0403.ac@gmail.com	CAESHhocChZjb20uZ29vZ2xlLmFuZHJvaWQuZ21zEgIIAg
+--------------------------------------------------
+
+--- Schema for table: group_keys ---
+CREATE TABLE group_keys(key_name STRING NOT NULL, account STRING NOT NULL, key_state INTEGER, public_key STRING, private_key STRING, PRIMARY KEY(key_name,account,key_state))
+
+--- Data for table: group_keys ---
+key_name	account	key_state	public_key	private_key
+DeviceSync:BetterTogether	liam0403.ac@gmail.com	2	CAESRQogRUVbP2WKyhPd0MU4MH1rnOJJHCd8cDRmNrdt3IW3LM0SIQDEzM2QG-W9k0Zr5uW9GRupinQXI4vIpKaxAjRLr7JxOQ	NULL
+--------------------------------------------------
+
+
+==================== DATABASE: data/com.google.android.gms/databases/backup_d2d_restore_app_info.db ====================
+
+Tables found:
+- android_metadata
+- PostD2dAppDataCleanupInfo
+- room_master_table
+
+--- Schema for table: PostD2dAppDataCleanupInfo ---
+CREATE TABLE `PostD2dAppDataCleanupInfo` (`pkg` TEXT NOT NULL, `appState` TEXT, `firstOpenTimestamp` INTEGER, PRIMARY KEY(`pkg`))
+
+--- Data for table: PostD2dAppDataCleanupInfo ---
+(No data in this table)
+--
+
+
+==================== DATABASE: data/com.google.android.gms/databases/google_account_history.db ====================
+
+Tables found:
+- android_metadata
+- AccountHistory
+- sqlite_sequence
+- AccountEventIndex
+
+--- Schema for table: AccountHistory ---
+CREATE TABLE AccountHistory ( id INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL, account_name TEXT NOT NULL, change_type INTEGER NOT NULL, event_index INTEGER NOT NULL, change_data TEXT)
+
+--- Data for table: AccountHistory ---
+id	account_name	change_type	event_index	change_data
+1	liam0403.ac@gmail.com	1	1	NULL
+--------------------------------------------------
+
+--- Schema for table: AccountEventIndex ---
+CREATE TABLE AccountEventIndex ( account_name TEXT NOT NULL, event_index INTEGER NOT NULL, UNIQUE(account_name))
+
+--- Data for table: AccountEventIndex ---
+account_name	event_index
+liam0403.ac@gmail.com	1
+--------------------------------------------------
+
+
+==================== DATABASE: data/com.google.android.gms/databases/gservices.db ====================
+
+Tables found:
+- android_metadata
+- main
+- overrides
+- saved_system
+- saved_secure
+- saved_global
+
+--- Schema for table: main ---
+CREATE TABLE main (name TEXT PRIMARY KEY, value TEXT)
+--
+--- Data for table: main ---
+name	value
+ce.cm.ims_reg_check_whitelist_carrier_ids	1, 1839, 1404, 1345, 1187, 1788, 2146, 2018, 1505
+gms:security:enable_conscrypt_in_gms_application	true
+videos:cast_icon_management_enabled	false
+url:play.playlog_log	https://android.clients.google.com/play/log rewrite https://play.googleapis.com/log
+society:primes_package_reporting	true
+finsky.recovery_mode.is_enabled	false
+voice_search:it_IT_hint_go_to	<b>vai su</b> wikipedia</string>
+youtube:enable_what_to_watch_v3	true
+cw:companion_needs_update_before_setup	true
+cw:communication_activity_recognition_request_interval_ms	21600000
+finsky.offline_autoscan_enabled	true
+checkin_logging_policy:snet	TAG_AND_VALUE
+wallet.volley_api_request_default_timeout	35000
+meetings:enable_primes_memory_monitoring	true
+videos:knowledge_enabled_tablets	false
+nearbymessages:hidden_clients	com.google.devrel.gmscore.memtest.location.nearby.messages,com.google.devrel.gmscore.batterytest.microbenchmark.nearby.test,com.google.android.gms.apitest,com.google.android.apps.testing.devicewhisperer.deviceagents.copresence,com.google.android.apps.testing.devicewhisperer.deviceagents.nearby,com.android.chrome,com.chrome.beta,com.chrome.dev,com.chrome.canary,com.chrome.work,com.google.android.apps.chrome,com.google.android.apps.gmm,com.google.android.apps.gmm.car,com.google.android.apps.gmm.dev,com.google.android.apps.gmm.fishfood,com.google.android.apps.gmm.qp,com.google.android.apps.maps,com.google.android.videos,com.google.android.apps.jamkiosk
+gtalk_ssl	true
+settings_tos_url	https://www.google.com/mobile/android/basic/phone-legal.html
+update_installation_device_idle_only_period	864000000
+gms:feedback:ctl_message_popup	true
+gads:adid_js_url	https://googleads.g.doubleclick.net/mads/static/mad/sdk/native/adinfo.js
+ocr.perform_nonstandard_cc_expdate_recognition	false
+fitness.sync_timeout_seconds	60
+wallet.support_multi_sim_card	true
+google_setup:ip_timezone	Asia/Seoul
+voice_search:it_IT_hint_send_sms	<b>invia sms</b> a giulia bianchi
+youtube:enable_innertube_guide_5_3_b	true
+gearhead:android_auto_ignition_companion_video_url	https://www.youtube.com/watch?v=_eR9pS6tJDI
+youtube:main:enable_lact	true
+finsky.wear.auto_install_enable	true
+finsky.daily_hygiene_probe_unauthenticated_account	true
+--
+dialer_reverse_lookup_min_version_enabled	1
+camera:camera.lenslite.enable_text_wifi_credentials	false
+Ulr__min_delta_meters	200.0
+youtube:enable_lact	true
+global:carrier_app_whitelist	4C36AF4A5BDAD97C1F3D8B283416D244496C2AC5EAFE8226079EF6F676FD1859:com.google.android.apps.tycho
+voice_search:gstatic_url	https://www.gstatic.com/android/voicesearch/production_2018_04_18_16_50_26_e76d587f4278d32f483226ff066c1173fb8bfb3586abce6fa2fa4c86
+gms_icing_enable_third_party_context	true
+fireperf:d0adcbac583a59a4eb43faf10fa17da2e3ba499a_limits	sampling:0
+ads:jams:is_enabled	false
